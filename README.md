@@ -6,9 +6,9 @@
   <h1 align="center">Explaining scientific findings through figures in publications, presentations, and posters
   </h1>
   <p align="center">
-    <a href="https://www.schulzscience.com/"><strong>Nataliya Rokhmanova*</strong></a>
+    <a href="https://is.mpg.de/person/rokhmanova"><strong>Nataliya Rokhmanova*</strong></a>
     ·
-    <a href="https://www.linkedin.com/in/mrudul-chellapurath-31530292/"><strong>Andrew K. Schulz*</strong></a>
+    <a href="https://hi.is.mpg.de/person/aschulz"><strong>Andrew K. Schulz*</strong></a>
     ·
 </p>
 <p float="center">
@@ -21,41 +21,20 @@
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [![PaperVideo](https://img.youtube.com/vi/vidid/0.jpg)](https://www.youtube.com/) | -->
 
-## Overview
+## Overview of Workshop Items
 
+This workshop will include several items and documents for you to utilize in your figure making journal. In this repo we will provide you with the following tools
+- Spectrum of Figure Creation
+- Figure Assessment Rubric
+- Poster, Presentation, Publication Quick Links and FAQs
+- Quick start guide to Inkscape and other Open-source figure tools
 
-This implementation:
-- Morphological data included species limb information, raw 3D STL files for 3D printing. 
-- The training and implementation code for:
-  - Tracking the squirrel mimic using DLC
-  - Extracting physical information (velocity, position, angle)
-- Modeling of the squirrel morphology data for physics
-
-<h2 align="center">3D Scanning and 3D Print files</h2>
+<h2 align="center">Spectrum of Figure Creation</h2>
 
 <details>
   <summary>Details</summary>
-In the folder, we have provided both raw 3D scan files as ready-to-print STL files of the Pel's scaly-tailed squirrel.
+In the folder, we provided information on the spectrum of figure creation, including figures from 1 to 5.
 
-Access the files here:
-```bash
-git clone https://github.com/Aschulz94/ScalySquirrel
-```
-
-After that do this to install DistillBERT:
-
-```shell
-cd deps/
-git lfs install
-git clone https://huggingface.co/distilbert-base-uncased
-cd ..
-```
-
-Install the requirements using `virtualenv` :
-```bash
-# pip
-source scripts/install.sh
-```
 You can do something equivalent with `conda` as well.
 </details>
 
