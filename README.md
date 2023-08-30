@@ -110,7 +110,7 @@ Many parts of this workshop reference a previous GitHub made by co-present NR: [
 
 ## Contact
 
-This code repository was implemented by [Nataliya Rokhmanava](https://github.com/nrokh) and [Andrew Schulz](https://github.com/Aschulz94). 
+This code repository was implemented by [Nataliya Rokhmanova](https://github.com/nrokh) and [Andrew Schultz](https://github.com/Aschulz94). 
 
 Give a ⭐ if you like.
 
