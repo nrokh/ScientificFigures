@@ -28,6 +28,7 @@ This workshop will include several items and documents for you to utilize in you
 - Figure Assessment Rubric
 - Poster, Presentation, Publication Quick Links and FAQs
 - Quick start guide to Inkscape and other Open-source figure tools
+- Figure Accessibility Guide
 
 <h2 align="center">Spectrum of Figure Creation</h2>
 
@@ -42,32 +43,54 @@ You can do something equivalent with `conda` as well.
 
 [comment]: <> (We have prepared a nice demo code to run SINC on arbitrary videos. )
 
-<h2 align="center">DLC Training, Labeling, and Raw Videos</h2>
+<h2 align="center">Figure Assessment Rubric</h2>
+
+ <details>
+  <summary>Details</summary>
+In this folder, we highlight information on specific assessments of figures in the presentation, publication, and poster formats. The overarching theme for the rubric are as follows:
+	 - Color Scheme
+	 - Clarity
+	 - Readability
+	 - Plot Type
+	 - Ink/Content Ratio
+	 - Accessibility
+</details>
+
+<h2 align="center">Quick Links and FAQs </h2>
 
  <details>
   <summary>Details</summary>
 
-<div align="center"><em>There is no need to do this step if you have followed the instructions and have done it for TEACH. Just use the ones from TEACH.</em></div>
-
-<div align="center"><h3>Step 1: Data Setup</h3></center></div>
-
-Download the data from [AMASS website](https://amass.is.tue.mpg.de). Then, run this command to extract the amass sequences that are annotated in babel:
+We highlight quick links and frequently asked questions or FAQs in this folder. There are links for the following resources:
+- Poster Creation Guide
+- Presentation Guide
+- Scientific Storytelling
+- Creating Figures for Publication
+- Open-source figure crafting tools
 
 </details>
 
-<h2 align="center">Squirrel Physics Modeling</h2>
+<h2 align="center">Inkscape 101 </h2>
 
  <details>
   <summary>Details</summary>
 
-<div align="center"><em>There is no need to do this step if you have followed the instructions and have done it for TEACH. Just use the ones from TEACH.</em></div>
-
-<div align="center"><h3>Step 1: Data Setup</h3></center></div>
-
-Download the data from [AMASS website](https://amass.is.tue.mpg.de). Then, run this command to extract the amass sequences that are annotated in babel:
+We highlight quick links and frequently asked questions or FAQs in this folder. There are links for the following resources:
+- How to Inkscape
 
 </details>
- 
+
+ <h2 align="center">Figure Accessibility</h2>
+
+ <details>
+  <summary>Details</summary>
+
+We highlight quick links and frequently asked questions or FAQs in this folder. There are links for the following resources:
+- Accessible color schemes
+- PDF accessibility guide
+- Accessible font styles
+
+</details>
 ## Citation
 
 ```bibtex
@@ -80,14 +103,14 @@ Download the data from [AMASS website](https://amass.is.tue.mpg.de). Then, run t
 
 ```
 ## License
-This code is available for all researchers to use.
+This information is for all researchers, scientists to use for their figure creation. 
 
 ## References
-Many parts of this code were based on the official implementation of [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut).
+Many parts of this workshop reference a previous GitHub made by co-present NR: [FiguresDemo2022](https://github.com/nrokh/FiguresDemo2022).
 
 ## Contact
 
-This code repository was implemented by [Andrew Schulz](https://www.schulzscience.com/), [Mrudul Chellapurath](https://www.linkedin.com/in/mrudul-chellapurath-31530292/), and [Pranav Khandelwal](https://prnvkhndlwl.github.io/).
+This code repository was implemented by [Nataliya Rokhmanava](https://github.com/nrokh) and [Andrew Schulz](https://github.com/Aschulz94). 
 
 Give a ⭐ if you like.
 
