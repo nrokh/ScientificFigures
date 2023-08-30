@@ -71,11 +71,11 @@ Download the data from [AMASS website](https://amass.is.tue.mpg.de). Then, run t
 ## Citation
 
 ```bibtex
-@inproceedings{SINC:ICCV:2022,
-  title={{SINC}: Spatial Composition of {3D} Human Motions for Simultaneous Action Generation},
-  author={Athanasiou, Nikos and Petrovich, Mathis and Black, Michael J. and Varol, G\"{u}l },
-  booktitle = {ICCV},
-  year = {2023}
+@techreport{rokhmanova_explaining_2023,
+	address = {IMPRS IS Bootcamp},
+	title = {Explaining scientific findings through figures in publications, presentations, and posters},
+	author = {Rokhmanova, Nataliya and Schulz, Andrew K.},
+	year = {2023},
 }
 
 ```
