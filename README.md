@@ -30,6 +30,8 @@ This workshop will include several items and documents for you to utilize in you
 - Quick start guide to Inkscape and other Open-source figure tools
 - Figure Accessibility Guide
 
+All items in this workshop are open-source and follow the ten definitions of Open Source included on `https://opensource.org/osd/`
+
 <h2 align="center">Spectrum of Figure Creation</h2>
 
 <details>
