@@ -70,7 +70,7 @@ We highlight quick links and frequently asked questions or FAQs in this folder. 
 
 </details>
 
-<h2 align="center">Inkscape 101 </h2>
+<h2 align="center">Open-Source Figure Making </h2>
 
  <details>
   <summary>Details</summary>
