@@ -80,17 +80,6 @@ We highlight quick links and frequently asked questions or FAQs in this folder. 
 
 </details>
 
- <h2 align="center">Figure Accessibility</h2>
-
- <details>
-  <summary>Details</summary>
-
-We highlight quick links and frequently asked questions or FAQs in this folder. There are links for the following resources:
-- Accessible color schemes
-- PDF accessibility guide
-- Accessible font styles
-
-</details>
 ## Citation
 
 ```bibtex
