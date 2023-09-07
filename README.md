@@ -20,7 +20,12 @@
 <!-- | Paper Video                                                                                                | Qualitative Results                                                                                                |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [![PaperVideo](https://img.youtube.com/vi/vidid/0.jpg)](https://www.youtube.com/) | -->
-
+<p>
+  <p align="center"> 
+  <img src="media/teaser.png">
+  </p>
+  <strong>TEMPEH</strong>: Given calibrated multi-view images (top: 4 of 16 views; contrast enhanced for visualization), TEMPEH directly infers 3D head meshes in dense semantic correspondence (bottom) in about 0.3 seconds. TEMPEH reconstructs heads with varying expressions (left) and head poses (right) for subjects unseen during training. Applied to multi-view video input, the frame-by-frame inferred meshes are temporally coherent, making them directly applicable to full-head performance-capture applications.   
+</p>
 ## Overview of Workshop Items
 
 This workshop will include several items and documents for you to utilize in your figure making journal. In this repo we will provide you with the following tools
