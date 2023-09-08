@@ -52,8 +52,11 @@ You can do something equivalent with `conda` as well.
 [comment]: <> (We have prepared a nice demo code to run SINC on arbitrary videos. )
 
 <h2 align="center">Figure Assessment Rubric</h2>
-
  <details>
+<p>
+  <p align="center"> 
+  <img src="media/GitHubRubric.png">
+  </p>	 
   <summary>Details</summary>
 In this folder, we highlight information on specific assessments of figures in the presentation, publication, and poster formats. The overarching theme for the rubric are as follows:
 	 - Color Scheme
