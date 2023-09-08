@@ -1,6 +1,3 @@
-# Scientific Figures
- 
-
 <p align="center">
 
   <h1 align="center">Explaining scientific findings through figures in publications, presentations, and posters
