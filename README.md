@@ -36,17 +36,15 @@ All items in this workshop are open-source and follow the ten definitions of Ope
   <p align="center"> 
   <img src="media/Fig1_commented.png">
   </p>
-  <strong>TEMPEH</strong>: Given calibrated multi-view images (top: 4 of 16 views; contrast enhanced for visualization), TEMPEH directly infers 3D head meshes in dense semantic correspondence (bottom) in about 0.3 seconds. TEMPEH reconstructs heads with varying expressions (left) and head poses (right) for subjects unseen during training. Applied to multi-view video input, the frame-by-frame inferred meshes are temporally coherent, making them directly applicable to full-head performance-capture applications.   
+  <strong>Spectrum</strong>: The spectrum is the spectrum and it's nice  
 </p>
   <summary>Details</summary>
 In the folder, we provided information on the spectrum of figure creation, including figures from 1 to 5.
-
-You can do something equivalent with `conda` as well.
 </details>
 
 [comment]: <> (## Running the Demo)
 
-[comment]: <> (We have prepared a nice demo code to run SINC on arbitrary videos. )
+[comment]: <> (We have prepared a nice demo. )
 
 <h2 align="center">Figure Assessment Rubric</h2>
  <details>
