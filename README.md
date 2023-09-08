@@ -8,10 +8,11 @@
     <a href="https://hi.is.mpg.de/person/aschulz"><strong>Andrew K. Schulz*</strong></a>
     ·
 </p>
-<p float="center">
-  <div align="center">
-  <img src="assets/sinc_tsr.gif" />
-  </div>
+<p>
+  <p align="center"> 
+  <img src="media/SciFig_v1.png">
+  </p>
+  <strong>Spectrum</strong>: The spectrum is the spectrum and it's nice  
 </p>
 
 <!-- | Paper Video                                                                                                | Qualitative Results                                                                                                |
