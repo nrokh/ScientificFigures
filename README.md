@@ -92,7 +92,7 @@ We highlight quick links and frequently asked questions or FAQs in this folder. 
 
 ```bibtex
 @techreport{rokhmanova_explaining_2023,
-	address = {IMPRS IS Bootcamp},
+	address = {Scientific Figures},
 	title = {Explaining scientific findings through figures in publications, presentations, and posters},
 	author = {Rokhmanova, Nataliya and Schulz, Andrew K.},
 	year = {2023},
@@ -103,11 +103,11 @@ We highlight quick links and frequently asked questions or FAQs in this folder. 
 This information is for all researchers, scientists to use for their figure creation. 
 
 ## References
-Many parts of this workshop reference a previous GitHub made by co-present NR: [FiguresDemo2022](https://github.com/nrokh/FiguresDemo2022).
+Many parts of this workshop reference a previous GitHub made by co-presenter NR: [FiguresDemo2022](https://github.com/nrokh/FiguresDemo2022).
 
 ## Contact
 
-This code repository was implemented by [Nataliya Rokhmanova](https://github.com/nrokh) and [Andrew Schultz](https://github.com/Aschulz94). 
+This code repository was implemented by [Nataliya Rokhmanova](https://github.com/nrokh) and [Andrew Schultz](https://github.com/Aschulz94). Many thanks to Katherine J. Kuchenbecker for support and feedback.
 
 Give a ⭐ if you like.
 
