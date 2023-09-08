@@ -1,4 +1,4 @@
-#IMPRSFiguresWorkshop
+# Scientific Figures
  
 
 <p align="center">
