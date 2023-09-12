@@ -39,7 +39,9 @@ This workshop will include several items and documents for you to utilize in you
 <h2 align="center">Spectrum of Figure Creation</h2>
 
 <details>
+	
 The spectrum contains multiple figures to help scientists understand the levels and differences of the iterative process for creating scientific visualizations. The figures are arranged in a pattern with the following:
+- Spectrum of Figure Creation
 	- Figure 1 
 	- Figure 2
 	- Figure 3 
