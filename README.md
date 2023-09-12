@@ -85,6 +85,16 @@ We highlight quick links and frequently asked questions or FAQs in this folder. 
 
 <h2 align="center">Inkscape 101 </h2>
 
+<details>
+<summary>Installing Inkscape</summary>
+
+Inkscape is a free and open-source software licensed under the [GPL](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html). To download Inkscape, you can go to their website:
+```
+https://inkscape.org/
+```
+
+ 
+</details>
 
  <details>
   <summary>Details</summary>
