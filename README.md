@@ -42,13 +42,13 @@ This workshop will include several items and documents for you to utilize in you
 	
 The spectrum contains multiple figures to help scientists understand the levels and differences of the iterative process for creating scientific visualizations. The figures are arranged in a pattern with the following:
 - Spectrum of Figure Creation
-	- Figure 1 
+	- Figure 1: The worst figure you (hopefully) will ever see. 
 	- Figure 2
 	- Figure 3 
 	- Figure 4
-	-Figure 4a
-	-Figure 4b
-	-Figure 4c
+ - Figure 4a
+ - Figure 4b
+ - Figure 4c
 
 For each of these figures, there are specific lessons from each, which are supplemented by the figure rubric included in the following section. The spectrum of figures is previewed below: 
 <p>
