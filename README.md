@@ -85,6 +85,7 @@ We highlight quick links and frequently asked questions or FAQs in this folder. 
 
 <h2 align="center">Inkscape 101 </h2>
 
+
  <details>
   <summary>Details</summary>
 
