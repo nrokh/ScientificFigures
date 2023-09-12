@@ -18,7 +18,7 @@
 <!-- | Paper Video                                                                                                | Qualitative Results                                                                                                |
 |------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
 | [![PaperVideo](https://img.youtube.com/vi/vidid/0.jpg)](https://www.youtube.com/) | -->
-## Scientific Figures Syllabus
+## SciFig Learning Outcomes for Users
 
 Learning outcomes for this repository
 - Participants will learn how to critically review their figures through a provided spectrum of figure development and a figure evaluation rubric.
@@ -31,7 +31,7 @@ Learning outcomes for this repository
 This workshop will include several items and documents for you to utilize in your figure-making journal. In this repo, we will provide you with the following tools
 - Spectrum of Figure Creation
 - Figure Assessment Rubric
-- SciFigs helpful Links and FAQs
+- SciFigs Helpful Links and FAQs
 - Inkscape 101
 
 
