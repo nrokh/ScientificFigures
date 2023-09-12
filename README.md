@@ -40,10 +40,10 @@ This workshop will include several items and documents for you to utilize in you
 
 <details>
 The spectrum contains multiple figures to help scientists understand the levels and differences of the iterative process for creating scientific visualizations. The figures are arranged in a pattern with the following:
-- Figure 1 
-- Figure 2
-- Figure 3 
-- Figure 4
+	- Figure 1 
+	- Figure 2
+	- Figure 3 
+	- Figure 4
 	-Figure 4a
 	-Figure 4b
 	-Figure 4c
