@@ -21,9 +21,9 @@
 ## Scientific Figures Syllabus
 
 Learning outcomes for this repository
-•	Participants will learn how to critically review their figures through a provided spectrum of figure development and a figure evaluation rubric. 
-•	Participants will understand resources for helping with figure construction and key points for figure construction through a figure evaluation rubric. 
-•	Participants will understand differences and key components in creating figures for publications, presentations (including TAC meetings), and posters. 
+- Participants will learn how to critically review their figures through a provided spectrum of figure development and a figure evaluation rubric.
+- Participants will understand resources for helping with figure construction and key points for figure construction through a figure evaluation rubric.
+- Participants will understand differences and key components in creating figures for publications, presentations (including Thesis Advisory Committee meetings), and posters. 
 
 
 ## Overview of Workshop Items and Handouts
