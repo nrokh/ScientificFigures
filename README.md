@@ -88,12 +88,15 @@ We highlight quick links and frequently asked questions or FAQs in this folder. 
 <details>
 <summary>Installing Inkscape</summary>
 
-Inkscape is a free and open-source software licensed under the [GPL](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html). To download Inkscape, you can go to their website:
+Inkscape is a free open-source software licensed under the [GPL](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html). To download Inkscape, you can go to their website:
 ```
 https://inkscape.org/
 ```
-
- 
+Additionally, you can directly download Inkscape across all platforms [here](https://inkscape.org/release/1.3/platforms/), or at the following web address for Linux, Windows, or MacOS:
+```
+https://inkscape.org/release/1.3/platforms/
+```
+Once Inkscape is downloaded, it will automatically be available as an application on your desktop. 
 </details>
 
  <details>
@@ -124,7 +127,7 @@ All items in this workshop are open-source and follow the ten definitions of Ope
 These items can be shared with lab groups and departments, and all files are accessible to be shared. 
 
 ## Acknowledgements
-Many parts of this workshop reference a previous GitHub made by co-presenter NR: [FiguresDemo2022](https://github.com/nrokh/FiguresDemo2022). The QR code for the logo and this GitHub repo were made using the python tutorial from sahil_rajput: [PythonQR](https://www.geeksforgeeks.org/python-generate-qr-code-using-pyqrcode-module/). For the figure spectrum, we utilized a Kaggle data set: [Eurovision Song Contest scores 1975-2019](https://www.kaggle.com/datasets/datagraver/eurovision-song-contest-scores-19752019). 
+Many parts of this workshop reference a previous GitHub made by co-presenter NR: [FiguresDemo2022](https://github.com/nrokh/FiguresDemo2022). The QR code for the logo and this GitHub repo were made using the Python tutorial from sahil_rajput: [PythonQR](https://www.geeksforgeeks.org/python-generate-qr-code-using-pyqrcode-module/). For the figure spectrum, we utilized a Kaggle data set: [Eurovision Song Contest scores 1975-2019](https://www.kaggle.com/datasets/datagraver/eurovision-song-contest-scores-19752019). Finally, we thank all of the authors and contributors to Inkscape who are listed [here](https://inkscape.org/credits/). 
 
 The authors thank the International Max Planck Research School for Intelligent Systems, [IMPRS-IS](https://imprs.is.mpg.de/) for supporting NR and AKS. The authors thank Brooke Christensen for the contribution materials utilized in making these resources. Thanks to [Katherine J. Kuchenbecker](https://is.mpg.de/~kjk) for support and feedback.
 
