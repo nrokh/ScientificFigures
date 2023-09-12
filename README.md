@@ -10,9 +10,9 @@
 </p>
 <p>
   <p align="center"> 
-  <img src="media/SciFig_v1.png">
+  <img src="media/SciFig_horizontal.png">
   </p>
-  <strong>Spectrum</strong>: The spectrum is the spectrum and it's nice  
+  <strong>Spectrum</strong>: *designates equalivant contributions to this GitHub repository.  
 </p>
 
 <!-- | Paper Video                                                                                                | Qualitative Results                                                                                                |
