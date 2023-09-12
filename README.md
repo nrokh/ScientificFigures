@@ -10,7 +10,7 @@
 </p>
 <p>
   <p align="center"> 
-  <img src="media/SciFig_horizontal.png">
+  <img src="media/SciFigTitle.png">
   </p>
   <strong>*</strong>: designates equalivant contributions to this GitHub repository.  
 </p>
