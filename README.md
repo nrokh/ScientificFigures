@@ -12,7 +12,7 @@
   <p align="center"> 
   <img src="media/SciFigTitle.png">
   </p>
-  <strong>*</strong>: designates equalivant contributions to this GitHub repository.  
+  <strong>*</strong> designates equalivant contributions to this GitHub repository.  
 </p>
 
 <!-- | Paper Video                                                                                                | Qualitative Results                                                                                                |
