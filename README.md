@@ -31,7 +31,7 @@ Learning outcomes for this repository
 This workshop will include several items and documents for you to utilize in your figure-making journal. In this repo, we will provide you with the following tools
 - Spectrum of Figure Creation
 - Figure Assessment Rubric
-- Accessibility, Color Spectrum, Poster, Presentation, and Publication Quick Links and FAQs
+- SciFigs helpful Links and FAQs
 - Inkscape 101
 
 
