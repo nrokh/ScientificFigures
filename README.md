@@ -39,12 +39,24 @@ This workshop will include several items and documents for you to utilize in you
 <h2 align="center">Spectrum of Figure Creation</h2>
 
 <details>
+The spectrum contains multiple figures to help scientists understand the levels and differences of the iterative process for creating scientific visualizations. The figures are arranged in a pattern with the following:
+- Figure 1 
+- Figure 2
+- Figure 3 
+- Figure 4
+	-Figure 4a
+	-Figure 4b
+	-Figure 4c
+
+For each of these figures, there are specific lessons from each, which are supplemented by the figure rubric included in the following section. The spectrum of figures is previewed below: 
 <p>
   <p align="center"> 
   <img src="media/Fig1_commented.png">
   </p>
   <strong>Spectrum</strong>: The spectrum is the spectrum and it's nice  
 </p>
+To access all raw data files included on this spectrum find them [here](https://github.com/nrokh/ScientificFigures). 
+
   <summary>Details</summary>
 In the folder, we provided information on the spectrum of figure creation, including figures from 1 to 5.
 </details>
