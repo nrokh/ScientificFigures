@@ -29,10 +29,10 @@ Learning outcomes for this repository
 ## Overview of Workshop Items and Handouts
 
 This workshop will include several items and documents for you to utilize in your figure-making journal. In this repo, we will provide you with the following tools
-- Spectrum of Figure Creation
-- Figure Assessment Rubric
-- SciFigs Helpful Links and FAQs
-- Inkscape 101
+- [Spectrum of Figure Creation](https://github.com/nrokh/ScientificFigures/blob/main/README.md#spectrum-of-figure-creation)
+- [Figure Assessment Rubric](https://github.com/nrokh/ScientificFigures/blob/main/README.md#spectrum-of-figure-creation)
+- [SciFigs Helpful Links and FAQs](https://github.com/nrokh/ScientificFigures/blob/main/README.md#spectrum-of-figure-creation)
+- [Inkscape 101](https://github.com/nrokh/ScientificFigures/blob/main/README.md#spectrum-of-figure-creation)
 
 
 
