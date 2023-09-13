@@ -123,7 +123,7 @@ During this workshop, we will be working
 </details>
 
 <h2 align="center">Running your own Tutorial </h2>
-Information for Running your tutorial is coming soon. We will the following teaching materials:
+Information for Running your tutorial is coming soon. We will provide the following teaching materials:
 	- Lesson plan for two-hour workshop for lab group, department, etc.  
 	- Slides for two hour workshop including powerpoints and PDFs
 	- Slido poll questions for engagement 
