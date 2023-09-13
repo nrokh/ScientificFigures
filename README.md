@@ -33,6 +33,7 @@ This workshop will include several items and documents for you to utilize in you
 - [Figure Assessment Rubric](https://github.com/nrokh/ScientificFigures/blob/main/README.md#spectrum-of-figure-creation)
 - [SciFigs Helpful Links and FAQs](https://github.com/nrokh/ScientificFigures/blob/main/README.md#spectrum-of-figure-creation)
 - [Inkscape 101](https://github.com/nrokh/ScientificFigures/blob/main/README.md#spectrum-of-figure-creation)
+- Running your own workshop (coming soon...)
 
 
 
@@ -123,11 +124,12 @@ During this workshop, we will be working
 
 <h2 align="center">Running your own Tutorial </h2>
 Information for Running your tutorial is coming soon. We will the following teaching materials:
-- Lesson plan for two-hour workshop for lab group, department, etc. 
-- Slides for two hour workshop including powerpoints and PDFs
-- Slido poll questions for engagement 
-- Example survey questions for feedback to improve the workshop
+	- Lesson plan for two-hour workshop for lab group, department, etc.  
+	- Slides for two hour workshop including powerpoints and PDFs
+	- Slido poll questions for engagement 
+	- Example survey questions for feedback to improve the workshop
 
+ 
 ## Citation
 
 ```bibtex
