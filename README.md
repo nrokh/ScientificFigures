@@ -66,8 +66,7 @@ The .png, .svg. and .pdf versions of this figure, as well as each sub-figure (Fi
 
 <h2 align="center">Figure Assessment Rubric</h2>
  <details>
-	 
-  <summary>Details</summary>
+
 In this folder, we highlight six key attributes to help assess figures for presentations, publications, and posters. The six attributes are:
 - Scale & Resolution
 - Units & Labels
