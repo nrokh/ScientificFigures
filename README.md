@@ -57,7 +57,7 @@ There is something to learn about each figure, and each lesson is supplemented b
   <img src="FigureSpectrum/FigureSpectrum.png">
   </p>
 </p>
-The .png, .svg. and .pdf versions of this figure, as well as each sub-figure (Fig.1-4) can be found <a href="https://github.com/nrokh/ScientificFigures">here</a>.
+The .png, .svg. and .pdf versions of this figure, as well as each sub-figure (Fig.1-4) can be found <a href="https://github.com/nrokh/ScientificFigures/FigureSpectrum">here</a>.
 </details>
 
 [comment]: <> (## Running the Demo)
@@ -75,19 +75,20 @@ In this folder, we highlight six key attributes to help assess figures for prese
 - Ink:Content Ratio
 - Accessibility
 
+The rubric shows examples of each attribute done well and done poorly, as well as a few pointers to keep in mind. 
+
   <p>
   <p align="center"> 
   <img src="FigureRubric/FigureRubric_pg1.png">
   <img src="FigureRubric/FigureRubric_pg2.png">
   </p>
-  
+The .png, .svg. and .pdf versions of this rubric can be found <a href="https://github.com/nrokh/ScientificFigures/FigureRubric">here</a>.  
 </details>
 
 <h2 align="center">Quick Links and FAQs </h2>
 
  <details>
-  <summary>Details</summary>
-
+	 
 We highlight quick links and frequently asked questions or FAQs in this folder. There are links for the following resources:
 - Poster Creation Guide
 - Presentation Guide
@@ -95,6 +96,7 @@ We highlight quick links and frequently asked questions or FAQs in this folder. 
 - Creating Figures for Publication
 - Open-source figure crafting tools
 
+The link sheet can be found <a href="https://github.com/nrokh/ScientificFigures/LinksAndFAQs">here</a>.
 </details>
 
 <h2 align="center">Inkscape 101 </h2>
@@ -116,17 +118,15 @@ Once Inkscape is downloaded, it will automatically be available as an applicatio
  <details>
   <summary>Details</summary>
 
-During this workshop, we will be working 
-- How to Inkscape
-
 </details>
 
 <h2 align="center">Running your own Tutorial </h2>
+
 Information for Running your tutorial is coming soon. We will provide the following teaching materials:
-	- Lesson plan for two-hour workshop for lab group, department, etc.  
-	- Slides for two hour workshop including powerpoints and PDFs
-	- Slido poll questions for engagement 
-	- Example survey questions for feedback to improve the workshop
+- Lesson plan for two-hour workshop for lab group, department, etc.
+- Slides for two hour workshop including powerpoints and PDFs
+- Slido poll questions for engagement
+- Example survey questions for feedback to improve the workshop
 
  
 ## Citation
