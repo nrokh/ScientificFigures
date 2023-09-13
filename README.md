@@ -69,12 +69,12 @@ The .png, .svg. and .pdf versions of this figure, as well as each sub-figure (Fi
 	 
   <summary>Details</summary>
 In this folder, we highlight six key attributes to help assess figures for presentations, publications, and posters. The six attributes are:
-	 - Scale & Resolution
-	 - Units & Labels
-	 - Colors
-	 - Emphasis
-	 - Ink:Content Ratio
-	 - Accessibility
+- Scale & Resolution
+- Units & Labels
+- Colors
+- Emphasis
+- Ink:Content Ratio
+- Accessibility
 
   <p>
   <p align="center"> 
