@@ -57,10 +57,7 @@ There is something to learn about each figure, and each lesson is supplemented b
   <img src="FigureSpectrum/FigureSpectrum.png">
   </p>
 </p>
-The .png, .svg. and .pdf versions of this figure can be found [here](https://github.com/nrokh/ScientificFigures).
-
-  <summary>Details</summary>
-In the folder, we provided information on the spectrum of figure creation, including figures from 1 to 5.
+The .png, .svg. and .pdf versions of this figure, as well as each sub-figure (Fig.1-4) can be found <a href="https://github.com/nrokh/ScientificFigures">here</a>.
 </details>
 
 [comment]: <> (## Running the Demo)
@@ -69,18 +66,22 @@ In the folder, we provided information on the spectrum of figure creation, inclu
 
 <h2 align="center">Figure Assessment Rubric</h2>
  <details>
-<p>
-  <p align="center"> 
-  <img src="media/GitHubRubric.png">
-  </p>	 
+	 
   <summary>Details</summary>
-In this folder, we highlight information on specific assessments of figures in the presentation, publication, and poster formats. The overarching theme for the rubric are as follows:
-	 - Color Scheme
-	 - Clarity
-	 - Readability
-	 - Plot Type
-	 - Ink/Content Ratio
+In this folder, we highlight six key attributes to help assess figures for presentations, publications, and posters. The six attributes are:
+	 - Scale & Resolution
+	 - Units & Labels
+	 - Colors
+	 - Emphasis
+	 - Ink:Content Ratio
 	 - Accessibility
+
+  <p>
+  <p align="center"> 
+  <img src="FigureRubric/FigureRubric_pg1.png">
+  <img src="FigureRubric/FigureRubric_pg2.png">
+  </p>
+  
 </details>
 
 <h2 align="center">Quick Links and FAQs </h2>
