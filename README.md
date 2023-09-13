@@ -21,8 +21,8 @@
 ## SciFig Learning Outcomes for Users
 
 Learning outcomes for this repository
-- Participants will learn how to critically review their figures through a provided spectrum of figure development and a figure evaluation rubric.
-- Participants will understand resources for helping with figure construction and key points for figure construction through a figure evaluation rubric.
+- Participants will learn how to critically review their figures using the provided spectrum of figure development and a figure evaluation rubric.
+- Participants will understand resources for helping with figure construction and key points for figure construction using a figure evaluation rubric.
 - Participants will understand differences and key components in creating figures for publications, presentations (including Thesis Advisory Committee meetings), and posters. 
 
 
@@ -41,15 +41,15 @@ This workshop will include several items and documents for you to utilize in you
 
 <details>
 	
-The spectrum contains multiple figures to help scientists understand the levels and differences of the iterative process for creating scientific visualizations. The figures are arranged in a pattern with the following:
+The spectrum contains multiple figures to help scientists understand the iterative process for creating scientific visualizations. The figures are arranged in the following pattern:
 - Spectrum of Figure Creation
-	- Figure 1: The worst figure you (hopefully) will ever see. 
-	- Figure 2
-	- Figure 3 
-	- Figure 4
- - Figure 4a
- - Figure 4b
- - Figure 4c
+	- Figure 1: The worst figure you (hopefully) will ever see. Nobody ever needs to see another figure like this one. 
+	- Figure 2: The same data and the same plot type from Figure 1 are now reworked into a more professional version. 
+	- Figure 3: After careful consideration of the _data_, this figure combines the two subplots from Figure 2 to create a comprehensive and easy-to-interpret view.
+	- Figure 4: After careful consideration of the _plot type_, this series of figures represents the data using a plot type that matches the data type. 
+		- Figure 4a: This is a figure that would be appropriate for a publication, where the reader has lots of time to engage, think, and read fine-print.
+		- Figure 4b: This is a figure that would be better suited for a poster, which should present distilled content and be readable at different distances.
+ 		- Figure 4c: This is a figure that would be best for a presentation, where it complements the content that you are describing verbally as you proceed through the talk.
 
 For each of these figures, there are specific lessons from each, which are supplemented by the figure rubric included in the following section. The spectrum of figures is previewed below: 
 <p>
