@@ -116,23 +116,17 @@ Once Inkscape is downloaded, it will automatically be available as an applicatio
  <details>
   <summary>Details</summary>
 
-During this workshop we will be working 
+During this workshop, we will be working 
 - How to Inkscape
 
 </details>
 
 <h2 align="center">Running your own Tutorial </h2>
-Information for Running your own tutorial is coming soon. We will the following teaching materials:
-
-</details>
-
-<details>
-	<summary>Details</summary>
- 	- Lesson plan for two hour workshop for lab group, department, etc. 
-	- Slides for two hour workshop including powerpoints and PDFs
-	- Slido poll questions for engagement 
-	- Example survey questions for feedback to improve the workshop
-</details>
+Information for Running your tutorial is coming soon. We will the following teaching materials:
+- Lesson plan for two-hour workshop for lab group, department, etc. 
+- Slides for two hour workshop including powerpoints and PDFs
+- Slido poll questions for engagement 
+- Example survey questions for feedback to improve the workshop
 
 ## Citation
 
