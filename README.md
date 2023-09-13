@@ -51,14 +51,13 @@ The spectrum contains multiple figures to help scientists understand the iterati
 		- Figure 4b: This is a figure that would be better suited for a poster, which should present distilled content and be readable at different distances.
  		- Figure 4c: This is a figure that would be best for a presentation, where it complements the content that you are describing verbally as you proceed through the talk.
 
-For each of these figures, there are specific lessons from each, which are supplemented by the figure rubric included in the following section. The spectrum of figures is previewed below: 
+There is something to learn about each figure, and each lesson is supplemented by the figure rubric included in the following section. The spectrum of figures is previewed below: 
 <p>
   <p align="center"> 
-  <img src="media/Fig1_commented.png">
+  <img src="FigureSpectrum/FigureSpectrum.png">
   </p>
-  <strong>Spectrum</strong>: The spectrum is the spectrum and it's nice  
 </p>
-To access all raw data files included on this spectrum find them [here](https://github.com/nrokh/ScientificFigures). 
+The .png, .svg. and .pdf versions of this figure can be found [here](https://github.com/nrokh/ScientificFigures).
 
   <summary>Details</summary>
 In the folder, we provided information on the spectrum of figure creation, including figures from 1 to 5.
