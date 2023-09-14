@@ -12,7 +12,7 @@
   <p align="center"> 
   <img src="media/SciFigTitle.png">
   </p>
-  <strong>*</strong> designates equalivant contributions to this GitHub repository.  
+  <strong>*</strong> designates equalivant contributions to this GitHub repository. The above logo can be found [here](https://github.com/nrokh/ScientificFigures/tree/main/media). 
 </p>
 
 <!-- | Paper Video                                                                                                | Qualitative Results                                                                                                |
