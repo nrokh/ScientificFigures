@@ -82,7 +82,7 @@ The rubric shows examples of each attribute done well and done poorly, as well a
   <img src="FigureRubric/FigureRubric_pg1.png">
   <img src="FigureRubric/FigureRubric_pg2.png">
   </p>
-The .png, .svg. and .pdf versions of this rubric can be found <a href="https://github.com/nrokh/ScientificFigures/tree/ad717a0e35d72456f1fbf443395fb6ab542574c8/FigureSpectrum">here</a>.  
+The .png, .svg. and .pdf versions of this rubric can be found <a href="https://github.com/nrokh/ScientificFigures/tree/7adb50915035029c4f42836f69965cf805202563/FigureRubric">here</a>.  
 </details>
 
 <h2 align="center">Quick Links and FAQs </h2>
