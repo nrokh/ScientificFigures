@@ -120,13 +120,13 @@ Once Inkscape is downloaded, it will automatically be available as an applicatio
 In this workshop, we explain how to take a plot exported from MATLAB as an .svg, import it into Inkscape, and revise it based on the six key attributes listed in the Figure Rubric. Time-permitting, we explain how to create simple vector graphics using a photograph as a guide. 
 </details>
 
-<h2 align="center">Running your own Tutorial </h2>
+<h2 align="center">Running your own tutorial </h2>
 
-Information for Running your tutorial is coming soon. We will provide the following teaching materials:
-- Lesson plan for two-hour workshop for lab group, department, etc.
-- Slides for two hour workshop including powerpoints and PDFs
-- Slido poll questions for engagement
-- Example survey questions for feedback to improve the workshop
+We learned a lot while planning and executing this workshop. Some tips on how to run your own tutorial will be coming soon. If you want to share this content with your colleagues by holding your own tutorial, we will provide the following teaching materials:
+- Lesson plan for a two-hour workshop for a lab group, department, etc.
+- Slides for a two hour workshop as both PowerPoint and PDF files
+- Sli.do poll questions
+- Example survey questions for feedback on how to improve the workshop
 
  
 ## Citation
