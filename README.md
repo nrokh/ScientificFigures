@@ -96,7 +96,7 @@ We highlight quick links and frequently asked questions or FAQs in this folder. 
 - Creating Figures for Publication
 - Open-source figure crafting tools
 
-The link sheet can be found <a href="https://github.com/nrokh/ScientificFigures/LinksAndFAQs">here</a>.
+The link sheet can be found <a href="https://github.com/nrokh/ScientificFigures/tree/e13819c333c6a333dc4a2dde96fdfe8c264389c4/LinksAndFAQs">here</a>.
 </details>
 
 <h2 align="center">Inkscape 101 </h2>
