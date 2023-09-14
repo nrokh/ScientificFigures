@@ -121,13 +121,15 @@ In this workshop, we explain how to take a plot exported from MATLAB as an .svg,
 </details>
 
 <h2 align="center">Running your own tutorial </h2>
+<details>
 
+ 
 We learned a lot while planning and executing this workshop. Some tips on how to run your own tutorial will be coming soon. If you want to share this content with your colleagues by holding your own tutorial, we will provide the following teaching materials:
 - Lesson plan for a two-hour workshop for a lab group, department, etc.
 - Slides for a two hour workshop as both PowerPoint and PDF files
 - Sli.do poll questions
 - Example survey questions for feedback on how to improve the workshop
-
+</details>
  
 ## Citation
 
