@@ -132,10 +132,11 @@ Information for Running your tutorial is coming soon. We will provide the follow
 ## Citation
 
 ```bibtex
-@techreport{rokhmanova_explaining_2023,
+@misc{rokhmanova_explaining_2023,
 	address = {Scientific Figures},
 	title = {Explaining scientific findings through figures in publications, presentations, and posters},
 	author = {Rokhmanova, Nataliya and Schulz, Andrew K.},
+	howpublished = {Workshop at the International Max Planck Research School for Intelligent Systems (IMPRS-IS) Fall 2023 Bootcamp},
 	year = {2023},
 }
 
