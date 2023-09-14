@@ -117,7 +117,7 @@ Once Inkscape is downloaded, it will automatically be available as an applicatio
 
  <details>
   <summary>Details</summary>
-In this workshop, we explain how to take a plot exported from MATLAB as an .svg, import it into Inkscape, and revise it based on the six key attributes listed in the Figure Rubric. Time-permitting, we explain how to create simple vector graphics using a photograph as a guide. 
+In this workshop, we explain how to take a plot exported from <a href="https://github.com/nrokh/ScientificFigures/blob/3777608834b74cf38e7a80259ed103772b47934a/Inkscape101/coffeeCupPlotting.m">MATLAB</a> as an <a href="https://github.com/nrokh/ScientificFigures/blob/3777608834b74cf38e7a80259ed103772b47934a/Inkscape101/coffeePlot.svg">.svg</a>, import it into Inkscape, and revise it based on the six key attributes listed in the Figure Rubric. Time-permitting, we explain how to create simple vector graphics using a <a href="https://github.com/nrokh/ScientificFigures/blob/3777608834b74cf38e7a80259ed103772b47934a/Inkscape101/CoffeeCup.jpg">photograph</a> as a guide. 
 </details>
 
 <h2 align="center">Running your own tutorial </h2>
