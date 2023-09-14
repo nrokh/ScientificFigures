@@ -57,7 +57,7 @@ There is something to learn about each figure, and each lesson is supplemented b
   <img src="FigureSpectrum/FigureSpectrum.png">
   </p>
 </p>
-The .png, .svg. and .pdf versions of this figure, as well as each sub-figure (Fig.1-4) can be found <a href="https://github.com/nrokh/ScientificFigures/FigureSpectrum">here</a>.
+The .png, .svg. and .pdf versions of this figure, as well as each sub-figure (Fig.1-4) can be found <a href="https://github.com/nrokh/ScientificFigures/tree/ad717a0e35d72456f1fbf443395fb6ab542574c8/FigureSpectrum">here</a>.
 </details>
 
 [comment]: <> (## Running the Demo)
