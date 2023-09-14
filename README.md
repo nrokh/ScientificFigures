@@ -20,10 +20,10 @@
 | [![PaperVideo](https://img.youtube.com/vi/vidid/0.jpg)](https://www.youtube.com/) | -->
 ## SciFig Learning Outcomes for Users
 
-Learning outcomes for this repository
+Learning outcomes for using this repository:
 - Participants will learn how to critically review their figures using the provided spectrum of figure development and a figure evaluation rubric.
-- Participants will understand resources for helping with figure construction and key points for figure construction using a figure evaluation rubric.
-- Participants will understand differences and key components in creating figures for publications, presentations (including Thesis Advisory Committee meetings), and posters. 
+- Participants will understand what resources are available to help with figure construction.
+- Participants will understand differences and key components between creating figures for publications, presentations (including Thesis Advisory Committee meetings), and posters. 
 
 
 ## Overview of Workshop Items and Handouts
@@ -41,7 +41,7 @@ This workshop will include several items and documents for you to utilize in you
 
 <details>
 	
-The spectrum contains multiple figures to help scientists understand the iterative process for creating scientific visualizations. The figures are arranged in the following pattern:
+The spectrum contains multiple figures to help scientists understand the iterative process for creating scientific visualizations. The figures are arranged in the following order:
 - Spectrum of Figure Creation
 	- Figure 1: The worst figure you (hopefully) will ever see. Nobody ever needs to see another figure like this one. 
 	- Figure 2: The same data and the same plot type from Figure 1 are now reworked into a more professional version. 
@@ -51,7 +51,7 @@ The spectrum contains multiple figures to help scientists understand the iterati
 		- Figure 4b: This is a figure that would be better suited for a poster, which should present distilled content and be readable at different distances.
  		- Figure 4c: This is a figure that would be best for a presentation, where it complements the content that you are describing verbally as you proceed through the talk.
 
-There is something to learn about each figure, and each lesson is supplemented by the figure rubric included in the following section. The spectrum of figures is previewed below: 
+There is something to learn about each figure, and each lesson is supplemented by the Figure Rubric included in the following section. The Figure Spectrum is previewed below: 
 <p>
   <p align="center"> 
   <img src="FigureSpectrum/FigureSpectrum.png">
@@ -67,7 +67,7 @@ The .png, .svg. and .pdf versions of this figure, as well as each sub-figure (Fi
 <h2 align="center">Figure Assessment Rubric</h2>
  <details>
 
-In this folder, we highlight six key attributes to help assess figures for presentations, publications, and posters. The six attributes are:
+In the Figure Rubric, we highlight six key attributes to help assess figures for presentations, publications, and posters. The six attributes are:
 - Scale & Resolution
 - Units & Labels
 - Colors
@@ -89,12 +89,12 @@ The .png, .svg. and .pdf versions of this rubric can be found <a href="https://g
 
  <details>
 	 
-We highlight quick links and frequently asked questions or FAQs in this folder. There are links for the following resources:
-- Poster Creation Guide
-- Presentation Guide
-- Scientific Storytelling
-- Creating Figures for Publication
-- Open-source figure crafting tools
+We highlight some useful links and frequently asked questions (FAQs) in this handout. There are links for the following resources:
+- Poster creation
+- Presentations
+- Scientific storytelling
+- Creating figures for publication
+- Open-source figure-crafting tools
 
 The link sheet can be found <a href="https://github.com/nrokh/ScientificFigures/tree/e13819c333c6a333dc4a2dde96fdfe8c264389c4/LinksAndFAQs">here</a>.
 </details>
@@ -117,7 +117,7 @@ Once Inkscape is downloaded, it will automatically be available as an applicatio
 
  <details>
   <summary>Details</summary>
-
+In this workshop, we explain how to take a plot exported from MATLAB as an .svg, import it into Inkscape, and revise it based on the six key attributes listed in the Figure Rubric. Time-permitting, we explain how to create simple vector graphics using a photograph as a guide. 
 </details>
 
 <h2 align="center">Running your own Tutorial </h2>
