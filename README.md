@@ -28,7 +28,7 @@ Learning outcomes for using this repository:
 
 ## Overview of Workshop Items and Handouts
 
-This workshop will include several items and documents for you to utilize in your figure-making journal. In this repo, we will provide you with the following tools
+This workshop will include several items and documents for you to use in your figure-making journey. In this repo, we will provide you with the following tools
 - [Spectrum of Figure Creation](https://github.com/nrokh/ScientificFigures/blob/main/README.md#spectrum-of-figure-creation)
 - [Figure Assessment Rubric](https://github.com/nrokh/ScientificFigures/blob/main/README.md#figure-assessment-rubric)
 - [SciFigs Helpful Links and FAQs](https://github.com/nrokh/ScientificFigures/blob/main/README.md#quick-links-and-faqs-)
