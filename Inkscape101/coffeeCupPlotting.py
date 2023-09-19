@@ -16,7 +16,9 @@ plt.ylabel('How good I feel (normalized)')
 plt.legend(loc='upper left')
 plt.grid(True)
 plt.box(True)
-plt.show()
+
 
 # Save the figure as an .svg file
 plt.savefig('CoffeePlotPy.svg', format='svg')
+
+plt.show()
