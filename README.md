@@ -129,21 +129,40 @@ you can import your .svg into your Inkscape file by clicking:
 File -> Import -> and selecting your saved .svg plot. 
 In the pop-up box, make sure you have selected "Include SVG image as editable object(s) in the current file. For most plot types and most instances, choosing "Blocky (optimizeSpeed) for your Image Rendering Mode will be just fine. Click "OK" and your plot will appear. 
 
-### Step 2: Making your plot elements editable:
+### Step 2: Making your plot elements editable
 Regardless of whether you export your image from MATLAB, Python, or somewhere else, you will have to "ungroup" the elements in your plot in order to be able to edit them. Right click on your plot, and select "ungroup" until each of the elements (such as the text, the axes, the data) in your plot is individually editable. 
 
-### Step 3: Making basic improvements:
+### Step 3: Basic figure improvements
 Some simple changes to your figure that you can make are:
 - Changing the font style or font size
 - Increasing the thickness of your axes
 - Changing the color of your data by changing the fill or stroke colors
+- Changing the stroke style of your lines so that the plots are still interpretable if printed in black and white
 - Changing the opacity of your data by playing with the Opacity toggle in the Fill and Stroke tab
 - Removing "chart junk" such as unnecessary gridlines or bounding boxes
 - Moving the legend to a different part of the plot, where it's not blocking your data
 
+Here is an example of a figure that we edited based on the guidelines in the Figure Rubric:
+<p align="center"> 
+  <img src="Inkscape101/plotBeforeandAfter.png">
+  </p>
+
+### Step 4: Creating a vector graphic by tracing a photo:
+This is one of the easiest ways of creating a realistic vector graphic that you can use to supplement your data. 
+1. First, import the photo or image you are using as a reference. Use the Import tool like last time; you might need to change "Files of type" to show "All images" if you are using a PNG or JPEG.
+2. Because we are only using the image as a reference, it doesn't need to be high-definition. Feel free to select "Blocky" for the Image Rendering Mode.
+3. Select the "Pen Tool" and use it to trace around the object you are using, making sure you connect the end of the trace to the beginning node. In this first stage, you are just roughly creating the outline; we will make the line trace smooth and accurate later. (Today, I am tracing a coffee cup, so I will trace the outline of it first, then create a separate trace to make a hole that will make the handle visible.)
+4. After you have roughly traced the outline of the shape, use the Node Tool to edit the curvature so that it matches the reference underneath.
+5. Next, trace the hole of the handle in the same way. When you're done, select both the main trace and the handle hole trace (hold down Shift to select both) and go to Path -> Difference. This will "delete" the hole, leaving you with just the outline of the cup and its handle.  
+
+Here is what the plot might look like, with a small vector graphic of a coffee cup representing a "standard" cup size:
+<p align="center"> 
+  <img src="Inkscape101/plotWithCup.png">
+  </p>
+
 </details>
 
-<h2 align="center">Running your own tutorial </h2>
+<h2 align="center">Teaching Materials</h2>
 <details>
 
  
