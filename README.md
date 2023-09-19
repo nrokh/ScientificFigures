@@ -117,7 +117,30 @@ Once Inkscape is downloaded, it will automatically be available as an applicatio
 
  <details>
   <summary>Details</summary>
-In this workshop, we explain how to take a plot exported from <a href="https://github.com/nrokh/ScientificFigures/blob/3777608834b74cf38e7a80259ed103772b47934a/Inkscape101/coffeeCupPlotting.m">MATLAB</a> as an <a href="https://github.com/nrokh/ScientificFigures/blob/3777608834b74cf38e7a80259ed103772b47934a/Inkscape101/coffeePlot.svg">.svg</a>, import it into Inkscape, and revise it based on the six key attributes listed in the Figure Rubric. Time-permitting, we explain how to create simple vector graphics using a <a href="https://github.com/nrokh/ScientificFigures/blob/3777608834b74cf38e7a80259ed103772b47934a/Inkscape101/CoffeeCup.jpg">photograph</a> as a guide. 
+In this workshop, we explain how to take a plot exported from <a href="https://github.com/nrokh/ScientificFigures/blob/3777608834b74cf38e7a80259ed103772b47934a/Inkscape101/coffeeCupPlotting.m">MATLAB</a> or <a href="https://github.com/nrokh/ScientificFigures/blob/77f8846c0996592dd7acffc26bbd8b64ab585337/Inkscape101/coffeeCupPlotting.py">Python</a> as an <a href="https://github.com/nrokh/ScientificFigures/blob/3777608834b74cf38e7a80259ed103772b47934a/Inkscape101/coffeePlot.svg">.svg</a>, import it into Inkscape, and revise it based on the six key attributes listed in the Figure Rubric. We also explain how to create simple vector graphics using a <a href="https://github.com/nrokh/ScientificFigures/blob/3777608834b74cf38e7a80259ed103772b47934a/Inkscape101/CoffeeCup.jpg">photograph</a> as a guide. 
+
+This guide assumes a basic understanding of Inkscape commands. The tutorials on the Inkscape website are a <a href="https://inkscape.org/learn/tutorials/">good place to start</a>.
+### Step 1: Load your .svg
+After you've saved your plotted figure as an .svg, either in the MATLAB Save File interface, or in Python using:
+```
+plt.savefig('figure.svg', format='svg')
+```
+you can import your .svg into your Inkscape file by clicking: 
+File -> Import -> and selecting your saved .svg plot. 
+In the pop-up box, make sure you have selected "Include SVG image as editable object(s) in the current file. For most plot types and most instances, choosing "Blocky (optimizeSpeed) for your Image Rendering Mode will be just fine. Click "OK" and your plot will appear. 
+
+### Step 2: Making your plot elements editable:
+Regardless of whether you export your image from MATLAB, Python, or somewhere else, you will have to "ungroup" the elements in your plot in order to be able to edit them. Right click on your plot, and select "ungroup" until each of the elements (such as the text, the axes, the data) in your plot is individually editable. 
+
+### Step 3: Making basic improvements:
+Some simple changes to your figure that you can make are:
+- Changing the font style or font size
+- Increasing the thickness of your axes
+- Changing the color of your data by changing the fill or stroke colors
+- Changing the opacity of your data by playing with the Opacity toggle in the Fill and Stroke tab
+- Removing "chart junk" such as unnecessary gridlines or bounding boxes
+- Moving the legend to a different part of the plot, where it's not blocking your data
+
 </details>
 
 <h2 align="center">Running your own tutorial </h2>
