@@ -129,6 +129,8 @@ you can import your .svg into your Inkscape file by clicking:
 File -> Import -> and selecting your saved .svg plot. 
 In the pop-up box, make sure you have selected "Include SVG image as editable object(s) in the current file. For most plot types and most instances, choosing "Blocky (optimizeSpeed) for your Image Rendering Mode will be just fine. Click "OK" and your plot will appear. 
 
+_Tip for MATLAB users:_ Saving a figure with subplots as an SVG is notoriously tricky. Refer to this <a href="https://de.mathworks.com/matlabcentral/answers/593113-exporting-a-figure-including-multiple-subplots-into-high-resolution-pdf-or-svg">discussion thread</a> for some guidance. 
+
 ### Step 2: Making your plot elements editable
 Regardless of whether you export your image from MATLAB, Python, or somewhere else, you will have to "ungroup" the elements in your plot in order to be able to edit them. Right click on your plot, and select "ungroup" until each of the elements (such as the text, the axes, the data) in your plot is individually editable. 
 
