@@ -33,7 +33,7 @@ This workshop will include several items and documents for you to use in your fi
 - [Figure Assessment Rubric](https://github.com/nrokh/ScientificFigures/blob/main/README.md#figure-assessment-rubric)
 - [SciFigs Helpful Links and FAQs](https://github.com/nrokh/ScientificFigures/blob/main/README.md#quick-links-and-faqs-)
 - [Inkscape 101](https://github.com/nrokh/ScientificFigures/blob/main/README.md#inkscape-101-)
-- Running your own workshop (coming soon...)
+- [Running your own workshop](https://github.com/nrokh/ScientificFigures/blob/main/README.md#inkscape-101-)
 
 
 
@@ -169,10 +169,10 @@ Here is what the plot might look like, with a small vector graphic of a coffee c
 
  
 We learned a lot while planning and executing this workshop. Some tips on how to run your own tutorial will be coming soon. If you want to share this content with your colleagues by holding your own tutorial, we will provide the following teaching materials:
-- Lesson plan for a two-hour workshop for a lab group, department, etc.
-- Slides for a two hour workshop as both PowerPoint and PDF files
-- Sli.do poll questions
-- Example survey questions for feedback on how to improve the workshop
+- Syllabus for a one or two-hour workshop on Scientific Figures with a timeline, learning objectives, and handout list.
+- Slides for a one or two-hour workshop included both as Powerpoint (.ppt) and PDF (.pdf) file types.
+- Detailed presentation lesson plan explaining the content and flow of each individual slide and contains references of figures highlighted throughout. 
+- Sli.do poll questions template to download and embed in your own workshop presentation.
 </details>
  
 ## Citation
