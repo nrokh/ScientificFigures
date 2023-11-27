@@ -33,7 +33,7 @@ This workshop will include several items and documents for you to use in your fi
 - [Figure Assessment Rubric](https://github.com/nrokh/ScientificFigures/blob/main/README.md#figure-assessment-rubric)
 - [SciFigs Helpful Links and FAQs](https://github.com/nrokh/ScientificFigures/blob/main/README.md#quick-links-and-faqs-)
 - [Inkscape 101](https://github.com/nrokh/ScientificFigures/blob/main/README.md#inkscape-101-)
-- [Running your own workshop](https://github.com/nrokh/ScientificFigures/blob/main/README.md#inkscape-101-)
+- [Running your own workshop](https://github.com/nrokh/ScientificFigures/blob/main/README.md#teaching-materials-)
 
 
 
