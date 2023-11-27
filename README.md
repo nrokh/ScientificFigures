@@ -169,10 +169,11 @@ Here is what the plot might look like, with a small vector graphic of a coffee c
 
  
 We learned a lot while planning and executing this workshop. Some tips on how to run your own tutorial will be coming soon. If you want to share this content with your colleagues by holding your own tutorial, we will provide the following teaching materials:
-- Syllabus for a one or two-hour workshop on Scientific Figures with a timeline, learning objectives, and handout list.
-- Slides for a one or two-hour workshop included both as Powerpoint (.ppt) and PDF (.pdf) file types.
-- Detailed presentation lesson plan explaining the content and flow of each individual slide and contains references of figures highlighted throughout. 
-- Sli.do poll questions template to download and embed in your own workshop presentation.
+- [Syllabus](https://github.com/nrokh/ScientificFigures/blob/3f51deed84f4cca84f48bd6dbedf518957d68c9a/TeachingMaterials/SCIFIG_Syllabus.docx) for a one or two-hour workshop on Scientific Figures with a timeline, learning objectives, and handout list.
+- Slides for a one or two-hour workshop included both as [Powerpoint (.pptx)](https://github.com/nrokh/ScientificFigures/blob/3f51deed84f4cca84f48bd6dbedf518957d68c9a/TeachingMaterials/SCIFIG_SlideTemplate.pptx) and [PDF (.pdf)](https://github.com/nrokh/ScientificFigures/blob/3f51deed84f4cca84f48bd6dbedf518957d68c9a/TeachingMaterials/SCIFIG_SlideTemplate.pdf) file types.
+- [Detailed presentation lesson plan](https://github.com/nrokh/ScientificFigures/blob/3f51deed84f4cca84f48bd6dbedf518957d68c9a/TeachingMaterials/SCIFIG_LessonPlan.docx) explaining the content and flow of each individual slide and contains references of figures highlighted throughout. Lesson plan contains references to several open-access publications which are listed in the [BIBTEX file](https://github.com/nrokh/ScientificFigures/blob/3f51deed84f4cca84f48bd6dbedf518957d68c9a/TeachingMaterials/SCIFIG_SlidesBib.bib)
+- Slido poll questions template to download and embed in your own workshop presentation. Link for the Slido poll questions is [here.](https://auth.slido.com/eu1/api/latest/the-auth/user/lifecycle-process/shareable-link/init?token=1411c175e7054b41562dcdc408a8c74d0be92151276530dd5f71ec1e5281cfb2)
+
 </details>
  
 ## Citation
