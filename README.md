@@ -127,7 +127,7 @@ plt.savefig('figure.svg', format='svg')
 ```
 you can import your .svg into your Inkscape file by clicking: 
 File -> Import -> and selecting your saved .svg plot. 
-In the pop-up box, make sure you have selected "Include SVG image as editable object(s) in the current file. For most plot types and most instances, choosing "Blocky (optimizeSpeed) for your Image Rendering Mode will be just fine. Click "OK" and your plot will appear. 
+In the pop-up box, make sure you have selected "Include SVG image as editable object(s)" in the current file. For most plot types and most instances, choosing "Blocky (optimizeSpeed) for your Image Rendering Mode will be just fine. Click "OK" and your plot will appear. 
 
 _Tip for MATLAB users:_ Saving a figure with subplots as an SVG is notoriously tricky. Refer to this <a href="https://de.mathworks.com/matlabcentral/answers/593113-exporting-a-figure-including-multiple-subplots-into-high-resolution-pdf-or-svg">discussion thread</a> for some guidance. 
 
