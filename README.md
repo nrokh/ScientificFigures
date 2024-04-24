@@ -130,7 +130,8 @@ File -> Import -> and selecting your saved .svg plot.
 In the pop-up box, make sure you have selected "Include SVG image as editable object(s)" in the current file. For most plot types and most instances, choosing "Blocky (optimizeSpeed) for your Image Rendering Mode will be just fine. Click "OK" and your plot will appear. 
 
 _Tip for MATLAB users:_ Saving a figure with subplots as an SVG is notoriously tricky. Refer to this <a href="https://de.mathworks.com/matlabcentral/answers/593113-exporting-a-figure-including-multiple-subplots-into-high-resolution-pdf-or-svg">discussion thread</a> for some guidance. 
-_Tip for Python users:_ If you would like your text to be editable, use the command `plt.rc("svg", fonttype="none")`. See <a href="https://stackoverflow.com/questions/34387893/output-matplotlib-figure-to-svg-with-text-as-text-not-curves"> this Stack Overflow discussion </a> for more details. 
+
+_Tip for Python users:_ If you would like your text to be editable, use the command `plt.rc("svg", fonttype="none")`. See <a href="https://stackoverflow.com/questions/34387893/output-matplotlib-figure-to-svg-with-text-as-text-not-curves"> this</a> Stack Overflow discussion for more details. 
 
 
 ### Step 2: Making your plot elements editable
