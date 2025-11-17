@@ -81,13 +81,20 @@ In the Figure Rubric, we highlight six key attributes to help assess figures for
 - Ink:Content Ratio
 - Accessibility
 
-The rubric shows examples of each attribute done well and done poorly, as well as a few pointers to keep in mind. 
+The rubric shows examples of each attribute done well and done poorly, as well as a few pointers to keep in mind. The Figure Rubric is previewed below in Light mode:
 
   <p>
   <p align="center"> 
   <img src="FigureRubric/FigureRubric_pg1.png">
   <img src="FigureRubric/FigureRubric_pg2.png">
   </p>
+The Figure Rubric is previewed below in Dark mode:
+  <p>
+  <p align="center"> 
+  <img src="FigureRubric/FigureRubricDarkModeTestPage1.png">
+  <img src="FigureRubric/FigureRubricDarkModeTestPage2.png">
+  </p>
+
 The .png, .svg. and .pdf versions of this rubric can be found <a href="https://github.com/nrokh/ScientificFigures/tree/7adb50915035029c4f42836f69965cf805202563/FigureRubric">here</a>.  
 </details>
 
