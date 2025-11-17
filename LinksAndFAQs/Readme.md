@@ -1,32 +1,30 @@
-# Explaining Scientific Findings Through Figures  
-### Publications • Presentations • Posters
-
+# Explanining scientific findings through figures in publications, presentations, and posters
 **Link, Accessibility, & FAQs Sheet**  
-**Authors:** Nataliya Rokhmanova & Andrew K. Schulz
+**By:** [Nataliya Rokhmanova](https://github.com/nrokh) & [Andrew K. Schulz](https://github.com/Aschulz94)
 
-This document compiles resources, guides, and FAQs for creating clear, effective, and accessible scientific figures across publications, presentations, and posters. It includes open-source illustration links, color-palette tools, accessibility guidelines, and recommended references for improving scientific communication.
+General description: This ReadMe includes links to additional resources for creating effective publications, presentations, and posters. The sheet starts with open-source illustrations links that can help in any format. The sheet is sorted by sections for publications, presentations, and posters; some links will be helpful for multiple applications. At the end, there is a guide for creating accessible figures including links to full guides for accessibility of figures, PDF, color schemes, and more. 
 
 ---
 
-## 📚 General Figure-Making Resources
+## General Figure-Making Resources
 
 | Type of Resource | Link | Description |
 |------------------|------|-------------|
 | Publication | [Hyperlink](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) | Key steps for creating publishable figures |
-| Social Media Thread | Hyperlink | Workflow for creating high-quality figures |
-| Publication/Report | Hyperlink | “100 rules of research”—includes visualization rules |
-| Website: PicWish | Hyperlink | AI photo editor for background removal |
-| Blog Posts | Hyperlink | MindTheGap blogs on figure and graphic design |
-| YouTube Tutorials | Hyperlink | Blender tutorials by The Luminous Lab |
-| YouTube Tutorials | Hyperlink | Data Visualization Society playlists & chats |
-| Blog Posts | Hyperlink | Science graphic designer group—accessibility info |
-| YouTube Tutorials | Hyperlink | Workshops on using ggplot in R |
-| Tutorial | Hyperlink | Visualization technique for multiple linear modeling |
-| QR Code Generator | Hyperlink | Python code for semi-permanent QR codes |
+| Social Media Thread | [Hyperlink](https://twitter.com/Ella_Maru/status/1673405271786287124) | Workflow for creating high-quality figures |
+| Publication/Report | [Hyperlink](https://nrokh.notion.site/100-Research-Rules-f608ddf8760c430e82a9daa74b8b6100?pvs=4) | “100 rules of research”—includes visualization rules |
+| Website: PicWish | [Hyperlink](https://picwish.com/) | AI photo editor for background removal |
+| Blog Posts | [Hyperlink](https://mindthegraph.com/blog/#.Yq2STi8w0dU) | MindTheGap blogs on figure and graphic design |
+| YouTube Tutorials | [Hyperlink](https://www.youtube.com/c/LuminousLab) | Blender tutorials by The Luminous Lab |
+| YouTube Tutorials | [Hyperlink](https://www.youtube.com/c/DataVisualizationSociety) | Data Visualization Society playlists & chats |
+| Blog Posts | [Hyperlink](https://www.sciencegraphicdesign.com/blog) | Science graphic designer group—accessibility info |
+| YouTube Tutorials | [Hyperlink](https://www.cedricscherer.com/top/about/#presentations) | Workshops on using ggplot in R |
+| Tutorial | [Hyperlink](http://mfviz.com/hierarchical-models/) | Visualization technique for multiple linear modeling |
+| QR Code Generator | [Hyperlink](https://www.geeksforgeeks.org/python-generate-qr-code-using-pyqrcode-module/) | Python code for semi-permanent QR codes |
 
 ---
 
-## 🎨 Open-Source Illustration Resources
+## Open-Source Illustration Resources
 
 | Type of Resource | Link | Description |
 |------------------|------|-------------|
@@ -42,7 +40,7 @@ This document compiles resources, guides, and FAQs for creating clear, effective
 
 ---
 
-## 🌈 Color Palette Tools
+## Color Palette Tools
 
 | Type of Resource | Link | Description |
 |------------------|------|-------------|
@@ -54,7 +52,7 @@ This document compiles resources, guides, and FAQs for creating clear, effective
 
 ---
 
-## 🖼️ Poster Resources & FAQs
+## Poster Resources & FAQs
 
 ### Poster Design Resources
 
@@ -81,7 +79,7 @@ Follow formatting guides, use provided links, and remember your poster should be
 
 ---
 
-## 🖥️ Presentation Resources & FAQs
+## Presentation Resources & FAQs
 
 ### Presentation Resources
 
@@ -108,7 +106,7 @@ Check room connections in advance and bring adapters. If required to upload befo
 
 ---
 
-## 📄 Publication Resources & FAQs
+## Publication Resources & FAQs
 
 ### Publication Resources
 
@@ -133,7 +131,7 @@ Yes—ensure clarity, legibility, and cohesion even in Supplementary Materials.
 
 ---
 
-## ♿ Accessibility Resources & FAQs
+## Accessibility Resources & FAQs
 
 ### Accessibility Resources
 
@@ -164,6 +162,6 @@ Journals enforce fonts, but preprints allow more accessible font choices.
 
 ---
 
-## 🔗 GitHub Repository
+## 🔗 Main GitHub Repository
 
 https://github.com/nrokh/ScientificFigures
