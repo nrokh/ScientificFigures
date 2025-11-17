@@ -1,6 +1,25 @@
-# Explanining scientific findings through figures in publications, presentations, and posters
-**Link, Accessibility, & FAQs Sheet**  
-**By:** [Nataliya Rokhmanova](https://github.com/nrokh) & [Andrew K. Schulz](https://github.com/Aschulz94)
+<p align="center">
+
+  <h1 align="center">Explaining scientific findings through figures in publications, presentations, and posters
+  </h1>
+  <p align="center">
+    <a href="https://is.mpg.de/person/rokhmanova"><strong>Nataliya Rokhmanova*</strong></a>
+    ·
+    <a href="https://hi.is.mpg.de/person/aschulz"><strong>Andrew K. Schulz*</strong></a>
+    ·
+</p>
+<p>
+  <p align="center"> 
+  <img src="media/SciFigTitle.png">
+  </p>
+  <strong>*</strong> designates equivalent contributions to this GitHub repository. The above logo can be found <a href="https://github.com/nrokh/ScientificFigures/tree/main/media">here</a>. 
+</p>
+
+<!-- | Paper Video                                                                                                | Qualitative Results                                                                                                |
+|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
+| [![PaperVideo](https://img.youtube.com/vi/vidid/0.jpg)](https://www.youtube.com/) | -->
+# Link, Accessibility, & FAQs Sheet
+
 
 General description: This ReadMe includes links to additional resources for creating effective publications, presentations, and posters. The sheet starts with open-source illustrations links that can help in any format. The sheet is sorted by sections for publications, presentations, and posters; some links will be helpful for multiple applications. At the end, there is a guide for creating accessible figures including links to full guides for accessibility of figures, PDF, color schemes, and more. 
 
