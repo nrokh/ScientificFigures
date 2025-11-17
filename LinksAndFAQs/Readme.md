@@ -12,7 +12,7 @@ This document compiles resources, guides, and FAQs for creating clear, effective
 
 | Type of Resource | Link | Description |
 |------------------|------|-------------|
-| Publication | Hyperlink | Key steps for creating publishable figures |
+| Publication | [Hyperlink](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) | Key steps for creating publishable figures |
 | Social Media Thread | Hyperlink | Workflow for creating high-quality figures |
 | Publication/Report | Hyperlink | “100 rules of research”—includes visualization rules |
 | Website: PicWish | Hyperlink | AI photo editor for background removal |
