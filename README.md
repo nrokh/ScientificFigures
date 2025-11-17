@@ -14,10 +14,8 @@
   </p>
   <strong>*</strong> designates equivalent contributions to this GitHub repository. The above logo can be found <a href="https://github.com/nrokh/ScientificFigures/tree/main/media">here</a>. 
 </p>
+💡 Tip: You can switch between [Light and Dark mode](https://github.com/settings/appearance) in your GitHub profile settings for better readability. This repo has all figures/images included to be nicely viewed in either light or dark mode. 
 
-<!-- | Paper Video                                                                                                | Qualitative Results                                                                                                |
-|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [![PaperVideo](https://img.youtube.com/vi/vidid/0.jpg)](https://www.youtube.com/) | -->
 ## SciFig Learning Outcomes for Users
 
 Learning outcomes for using this repository:
