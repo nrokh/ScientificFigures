@@ -8,16 +8,7 @@
     <a href="https://hi.is.mpg.de/person/aschulz"><strong>Andrew K. Schulz*</strong></a>
     ·
 </p>
-<p>
-  <p align="center"> 
-  <img src="media/SciFigTitle.png">
-  </p>
-  <strong>*</strong> designates equivalent contributions to this GitHub repository. The above logo can be found <a href="https://github.com/nrokh/ScientificFigures/tree/main/media">here</a>. 
-</p>
 
-<!-- | Paper Video                                                                                                | Qualitative Results                                                                                                |
-|------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------|
-| [![PaperVideo](https://img.youtube.com/vi/vidid/0.jpg)](https://www.youtube.com/) | -->
 # Link, Accessibility, & FAQs Sheet
 
 
