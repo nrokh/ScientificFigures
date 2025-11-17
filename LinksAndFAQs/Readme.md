@@ -69,13 +69,13 @@ General description: This ReadMe includes links to additional resources for crea
 ### Poster FAQ
 
 **What programs can I use to make a poster?**  
-PowerPoint and Adobe Illustrator are common (Illustrator is paid). Free alternatives: Inkscape and BioRender.
+Many people use Microsoft PowerPoint, but you can also use Adobe Illustrator; however, this program is not free. Other free software includes Inkscape as well as BioRender for creating posters.
 
 **How large should the poster be?**  
-Check conference guidelines for size requirements and set your poster dimensions accordingly.
+For presenting a poster at a conference, always check the conference website, as it should include specific guidelines for size and spacing of maximum/minimum poster size. This can then be set on your program for the length (L) and width (W) dimensions. 
 
 **How do I design my poster?**  
-Follow formatting guides, use provided links, and remember your poster should be interpretable without you present.
+There are several formatting guides for making a poster. We have included links to creating your poster. Additionally, there are YouTube guides and tutorials for posters. Finally, remember that your poster will likely be hung up without you there to present it, so it should be interpretable on its own as well.
 
 ---
 
@@ -96,13 +96,13 @@ Follow formatting guides, use provided links, and remember your poster should be
 ### Presentation FAQ
 
 **How long should a presentation be?**  
-Check conference rules—it usually includes Q&A. Thesis talks are typically 1 hour with 15–20 minutes for questions.
+Most conferences list presentation time, which likely includes both the presentation and question time. If not, be sure to ask the organizers. Thesis presentations typically have a 1-hour time slot, where normally 15-20 minutes is reserved for questions. 
 
 **How do I minimize technical issues?**  
-Convert videos to GIFs when possible. Be prepared to troubleshoot presentation/presenter view.
+A common issue is playing videos: using GIFs instead of video is more reliable, but they will be of a lower resolution. Always be ready to troubleshoot presentation vs. presenter view. 
 
 **How do I avoid compatibility issues with Macs and Keynote?**  
-Check room connections in advance and bring adapters. If required to upload beforehand, bring a backup PowerPoint on USB.
+Check the presentation room beforehand to make sure you have the right connection cable type, and always keep an extra converter with you. If presentations need to be uploaded beforehand, be sure you have a backup PowerPoint file, saved onto a USB drive. 
 
 ---
 
@@ -124,10 +124,10 @@ Check room connections in advance and bring adapters. If required to upload befo
 Check the journal’s author guidelines. For instance, if you are submitting a paper to Journal of The Royal Society Interface, there is an “[information for authors section](https://royalsocietypublishing.org/rsif/for-authors)” which provides information for size, format, etc. for figure files. Expectations may be different between review and publication.  
 
 **How do I ensure figures are not blurry in print?**  
-Use lossless formats and check your proofs by printing a physical copy.
+There are two ways to ensure this. Always work in lossless formats. Additionally, when you receive your proofs for the publication, make sure you print it out and double-check the resolution in actual print. 
 
 **Do Supplemental figures need to look good?**  
-Yes—ensure clarity, legibility, and cohesion even in Supplementary Materials.
+Many publications have strict page length requirements, which means there will be a large Supplemental section. Ensure that you are—at least—creating figures that are interpretable, legible, clear, and cohesive, so that all readers are able to interpret your work.
 
 ---
 
@@ -155,10 +155,10 @@ Yes—ensure clarity, legibility, and cohesion even in Supplementary Materials.
 ### Accessibility FAQ
 
 **Why should I make my figures accessible?**  
-Accessibility supports OCR tools, helps readers with visual impairments, colorblindness, and neurodivergence, and aligns with science’s goal of universal access.
+There are a few reasons why this is important. Accessible PDFs enable optical character recognition (OCR) which reads out PDF content for individuals with vision impairment. Colorblindness and neurodivergent diagnoses are prevalent, and crafting figures that are as close to universally accessible is a core mission of science. It’s the right thing to do!
 
 **Can I choose readable fonts for publications?**  
-Journals enforce fonts, but preprints allow more accessible font choices.
+Unfortunately, journals typically enforce their own standardized fonts for the peer-reviewed and published versions. However, if you post your paper on a pre-print server, there are normally no font rules and therefore you can use more accessible fonts in those submissions. 
 
 ---
 
