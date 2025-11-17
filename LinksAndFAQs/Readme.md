@@ -28,15 +28,15 @@ General description: This ReadMe includes links to additional resources for crea
 
 | Type of Resource | Link | Description |
 |------------------|------|-------------|
-| Undraw | Hyperlink | Customizable open-source illustrations |
-| Phylopic | Hyperlink | Free animal and organism silhouettes |
-| Datawrapper | Hyperlink | Free data-visualization tool |
-| NounProject | Hyperlink | 5M+ open-source icons |
-| Wikimedia Commons | Hyperlink | Free images across categories |
-| BioRender | Hyperlink | Tools for biological figures |
-| SciDraw | Hyperlink | Scientific drawings with DOIs |
-| Bioicons | Hyperlink | Icon sets for experimental methods |
-| NEJM | Hyperlink | Medical image glossary |
+| Undraw | [Hyperlink](https://undraw.co/illustrations) | Customizable open-source illustrations |
+| Phylopic | [Hyperlink](https://www.phylopic.org/) | Free animal and organism silhouettes |
+| Datawrapper | [Hyperlink](https://www.datawrapper.de/) | Free data-visualization tool |
+| NounProject | [Hyperlink](https://thenounproject.com/) | 5M+ open-source icons |
+| Wikimedia Commons | [Hyperlink](https://commons.wikimedia.org/wiki/Main_Page) | Free images across categories |
+| BioRender | [Hyperlink](https://learn.biorender.com/) | Tools for biological figures |
+| SciDraw | [Hyperlink](https://www.scidraw.io/) | Scientific drawings with DOIs |
+| Bioicons | [Hyperlink](https://bioicons.com/) | Icon sets for experimental methods |
+| NEJM | [Hyperlink](https://illustrated-glossary.nejm.org/) | Medical image glossary |
 
 ---
 
@@ -44,11 +44,11 @@ General description: This ReadMe includes links to additional resources for crea
 
 | Type of Resource | Link | Description |
 |------------------|------|-------------|
-| Website | Hyperlink | Coolors generator (with colorblind toggles) |
-| Social Media Thread | Hyperlink | Advice for choosing color palettes |
-| Blog Post | Hyperlink | How to think about color coordination |
-| Website | Hyperlink | ColorBrewer for colorblind-safe schemes |
-| Website | Hyperlink | Adobe color wheel |
+| Website | [Hyperlink](https://coolors.co/) | Coolors generator (with colorblind toggles) |
+| Social Media Thread | [Hyperlink](https://twitter.com/moriah_taylor58/status/1395431000977649665) | Advice for choosing color palettes |
+| Blog Post | [Hyperlink](https://blog.datawrapper.de/beautifulcolors/) | How to think about color coordination |
+| Website | [Hyperlink](https://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3) | ColorBrewer for colorblind-safe schemes |
+| Website | [Hyperlink](https://color.adobe.com/create/color-wheel) | Adobe color wheel |
 
 ---
 
@@ -58,13 +58,13 @@ General description: This ReadMe includes links to additional resources for crea
 
 | Type of Resource | Link | Description |
 |------------------|------|-------------|
-| Social Media Thread | Hyperlink | Twitter guide to poster visualization |
-| Publication | Hyperlink | Scientists describe poster best practices |
-| Blog Post | Hyperlink | Fonts, images, and layout tips |
-| Blog Post | Hyperlink | BioRender poster creation tips |
-| Blog Post | Hyperlink | Description of the #BetterPoster movement |
-| YouTube Tutorial | Hyperlink | How to create better posters quickly |
-| YouTube Tutorial | Hyperlink | Science infographic guidance |
+| Social Media Thread | [Hyperlink](https://twitter.com/iamscicomm/status/1532895329045168133?s=20&t=SvvDSnZi8jLzBf7m7ryq3A) | Twitter guide to poster visualization |
+| Publication | [Hyperlink](https://www.science.org/content/article/how-prepare-scientific-poster) | Scientists describe poster best practices |
+| Blog Post | [Hyperlink](https://www.animateyour.science/post/how-to-design-an-award-winning-conference-poster) | Fonts, images, and layout tips |
+| Blog Post | [Hyperlink](https://www.biorender.com/blog/top-5-tips-for-designing-a-scientific-poster) | BioRender poster creation tips |
+| Blog Post | [Hyperlink](https://astrobites.org/2020/02/28/fixing-academic-posters-the-betterposter-approach/) | Description of the #BetterPoster movement |
+| YouTube Tutorial | [Hyperlink](https://www.youtube.com/watch?v=SYk29tnxASs) | How to create better posters quickly |
+| YouTube Tutorial | [Hyperlink](https://www.youtube.com/watch?v=TzlwpCjM-Uk) | Science infographic guidance |
 
 ### Poster FAQ
 
@@ -85,13 +85,13 @@ Follow formatting guides, use provided links, and remember your poster should be
 
 | Type of Resource | Link | Description |
 |------------------|------|-------------|
-| Publication | Hyperlink | Cell article on storytelling |
-| Publication | Hyperlink | The “arcs” of good story structure |
-| Blog Post | Hyperlink | How to create a fantastic scientific talk |
-| Blog Post | Hyperlink | 10 lessons from TED talks |
-| Publication | Hyperlink | Guide to giving great scientific talks |
-| Publication | Hyperlink | Telling a compelling scientific story |
-| Blog Post | Hyperlink | Satirical “12 do-NOTs” for presentations |
+| Publication | [Hyperlink](https://www.cell.com/trends/molecular-medicine/pdf/S1471-4914(23)00092-8.pdf) | Cell article on storytelling |
+| Publication | [Hyperlink](https://arxiv.org/abs/1606.07772) | The “arcs” of good story structure |
+| Blog Post | [Hyperlink](https://www.synthego.com/blog/scientific-talk-tips) | How to create a fantastic scientific talk |
+| Blog Post | [Hyperlink](https://www.skillsyouneed.com/rhubarb/presentation-skills-ted-talks.html) | 10 lessons from TED talks |
+| Publication | [Hyperlink](https://www.nature.com/articles/d41586-018-07780-5) | Guide to giving great scientific talks |
+| Publication | [Hyperlink](https://www.nature.com/articles/d41586-021-03603-2) | Telling a compelling scientific story |
+| Blog Post | [Hyperlink](https://medium.com/edge-of-innovation/how-to-give-the-best-scientific-presentation-ever-c87e202718cf) | Satirical “12 do-NOTs” for presentations |
 
 ### Presentation FAQ
 
@@ -112,16 +112,16 @@ Check room connections in advance and bring adapters. If required to upload befo
 
 | Type of Resource | Link | Description |
 |------------------|------|-------------|
-| Publication | Hyperlink | Science Robotics paper on graphical abstracts |
-| Blog Post | Hyperlink | Tips for writing shareable, public code |
-| Website | Hyperlink | Tools for publication-quality figures |
-| Publication | Hyperlink | PLOS Biology: Ten rules for better figures |
-| Publication | Hyperlink | Review of effective visualization techniques |
+| Publication | [Hyperlink](https://www.science.org/doi/10.1126/scirobotics.abn1724) | Science Robotics paper on graphical abstracts |
+| Blog Post | [Hyperlink](https://nrokh.notion.site/things-you-should-know-before-writing-code-fc825c32eab0415889e955fc076974f1?pvs=4) | Tips for writing shareable, public code |
+| Website | [Hyperlink](https://b.nanes.org/figures/) | Tools for publication-quality figures |
+| Publication | [Hyperlink](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003833) | PLOS Biology: Ten rules for better figures |
+| Publication | [Hyperlink](https://journals.sagepub.com/doi/full/10.1177/15291006211051956) | Review of effective visualization techniques |
 
 ### Publication FAQ
 
 **What are limits for size, number of figures, or color?**  
-Check the journal’s author guidelines (e.g., Royal Society Interface).
+Check the journal’s author guidelines. For instance, if you are submitting a paper to Journal of The Royal Society Interface, there is an “[information for authors section](https://royalsocietypublishing.org/rsif/for-authors)” which provides information for size, format, etc. for figure files. Expectations may be different between review and publication.  
 
 **How do I ensure figures are not blurry in print?**  
 Use lossless formats and check your proofs by printing a physical copy.
@@ -137,20 +137,20 @@ Yes—ensure clarity, legibility, and cohesion even in Supplementary Materials.
 
 | Type of Resource | Link | Description |
 |------------------|------|-------------|
-| Website | Hyperlink | Guide to accessible figures & tables |
-| Website | Hyperlink | Text–background contrast checker |
-| Website | Hyperlink | RGB/HEX contrast checking |
-| Website | Hyperlink | Colorblind-friendly palettes |
-| R Package | Hyperlink | Simulate colorblindness in R |
-| Website | Hyperlink | Colorblindness emulator for images |
-| Blog Post | Hyperlink | How to create alt-text for visualizations |
-| Website | Hyperlink | Making images accessible with alt-text |
-| Website | Hyperlink | Adobe PDF accessibility guide |
-| Website | Hyperlink | Harvard guide to accessible PDFs |
-| Website | Hyperlink | Dyslexia-friendly font guidelines |
-| Blog Post | Hyperlink | Designing visuals for neurodivergence |
-| Blog Post | Hyperlink | Good vs. bad fonts for neurodivergent readers |
-| Website | Hyperlink | What makes an open-source tool “true” open-source |
+| Website | [Hyperlink](https://dis.acm.org/2023/creating-accessible-figures-and-tables/) | Guide to accessible figures & tables |
+| Website | [Hyperlink](https://colourcontrast.cc/) | Text–background contrast checker |
+| Website | [Hyperlink](https://www.levelaccess.com/color-contrast-checker-new/) | RGB/HEX contrast checking |
+| Website | [Hyperlink](https://projects.susielu.com/viz-palette) | Colorblind-friendly palettes |
+| R Package | [Hyperlink](https://www.rdocumentation.org/packages/colorblindr/versions/0.1.0) | Simulate colorblindness in R |
+| Website | [Hyperlink](http://hclwizard.org:3000/cvdemulator/) | Colorblindness emulator for images |
+| Blog Post | [Hyperlink](https://medium.com/nightingale/writing-alt-text-for-data-visualization-2a218ef43f81) | How to create alt-text for visualizations |
+| Website | [Hyperlink](https://help.twitter.com/en/using-twitter/picture-descriptions) | Making images accessible with alt-text |
+| Website | [Hyperlink](https://helpx.adobe.com/acrobat/using/create-verify-pdf-accessibility.html) | Adobe PDF accessibility guide |
+| Website | [Hyperlink](https://accessibility.huit.harvard.edu/pdf) | Harvard guide to accessible PDFs |
+| Website | [Hyperlink](https://www.bdadyslexia.org.uk/advice/employers/creating-a-dyslexia-friendly-workplace/dyslexia-friendly-style-guide) | Dyslexia-friendly font guidelines |
+| Blog Post | [Hyperlink](https://www.fullfabric.com/articles/how-to-design-visual-learning-resources-for-neurodiverse-students) | Designing visuals for neurodivergence |
+| Blog Post | [Hyperlink](https://www.neurodiversity.design/font/) | Good vs. bad fonts for neurodivergent readers |
+| Website | [Hyperlink](https://opensource.org/osd/) | What makes an open-source tool “true” open-source |
 
 ### Accessibility FAQ
 
