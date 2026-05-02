@@ -50,18 +50,17 @@ The spectrum contains multiple figures to help scientists understand the iterati
 		- Figure 4b: This is a figure that would be better suited for a poster, which should present distilled content and be readable at different distances.
  		- Figure 4c: This is a figure that would be best for a presentation, where it complements the content that you are describing verbally as you proceed through the talk.
 
-There is something to learn about each figure, and each lesson is supplemented by the Figure Rubric included in the following section. The Figure Spectrum is previewed below in Light mode:  
-<p>
-  <p align="center"> 
-  <img src="FigureSpectrum/FigureSpectrum.png">
-  </p>
-</p>
-The Figure Spectrum is previewed below in Dark mode:  
-<p>
-  <p align="center"> 
-  <img src="FigureSpectrum/FigureSpectrumDarkModeTest.png">
-  </p>
-</p>
+There is something to learn about each figure, and each lesson is supplemented by the Figure Rubric included in the following section. 
+
+<div align="center">
+  <img src="FigureSpectrum/FigureSpectrum.png#gh-light-mode-only"
+       alt="Integrated FunMaP workflow shown as a metro-style diagram with two parallel pipelines that converge for cross-validation. The experimental pipeline (orange) progresses from SEM imaging of FePt thin films on SiO₂ spheres through XRD and SQUID measurements, producing averaged hysteresis loops and diffraction data. The simulation pipeline (purple) performs micromagnetic simulations of hemispherical FePt caps with radial or uniaxial anisotropy, generating hysteresis loops and switching field distributions. Both pipelines merge for direct comparison between experimental and simulated magnetic behavior, yielding publication-ready figures and magnetic property metrics."
+       width="100%">
+
+  <img src="FigureSpectrum/FigureSpectrumDarkModeTest.png#gh-dark-mode-only"
+       alt="Integrated FunMaP workflow shown as a metro-style diagram with two parallel pipelines that converge for cross-validation. The experimental pipeline (orange) progresses from SEM imaging of FePt thin films on SiO₂ spheres through XRD and SQUID measurements, producing averaged hysteresis loops and diffraction data. The simulation pipeline (purple) performs micromagnetic simulations of hemispherical FePt caps with radial or uniaxial anisotropy, generating hysteresis loops and switching field distributions. Both pipelines merge for direct comparison between experimental and simulated magnetic behavior, yielding publication-ready figures and magnetic property metrics."
+       width="100%">
+</div>
 
 
 The .png, .svg. and .pdf versions of this figure, as well as each sub-figure (Fig.1-4) can be found <a href="https://github.com/nrokh/ScientificFigures/tree/ad717a0e35d72456f1fbf443395fb6ab542574c8/FigureSpectrum">here</a>.
