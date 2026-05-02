@@ -94,17 +94,15 @@ The rubric shows examples of each attribute done well and done poorly, as well a
        width="100%">
 </div>
 
-  <p>
-  <p align="center"> 
-  <img src="FigureRubric/FigureRubric_pg1.png">
-  <img src="FigureRubric/FigureRubric_pg2.png">
-  </p>
-The Figure Rubric is previewed below in Dark mode:
-  <p>
-  <p align="center"> 
-  <img src="FigureRubric/FigureRubricDarkModeTestPage1.png">
-  <img src="FigureRubric/FigureRubricDarkModeTestPage2.png">
-  </p>
+<div align="center">
+  <img src="FigureRubric/FigureRubric_pg2.png#gh-light-mode-only"
+       alt="Integrated FunMaP workflow shown as a metro-style diagram with two parallel pipelines that converge for cross-validation. The experimental pipeline (orange) progresses from SEM imaging of FePt thin films on SiO₂ spheres through XRD and SQUID measurements, producing averaged hysteresis loops and diffraction data. The simulation pipeline (purple) performs micromagnetic simulations of hemispherical FePt caps with radial or uniaxial anisotropy, generating hysteresis loops and switching field distributions. Both pipelines merge for direct comparison between experimental and simulated magnetic behavior, yielding publication-ready figures and magnetic property metrics."
+       width="100%">
+
+  <img src="FigureRubric/FigureRubricDarkModeTestPage2.png#gh-dark-mode-only"
+       alt="Integrated FunMaP workflow shown as a metro-style diagram with two parallel pipelines that converge for cross-validation. The experimental pipeline (orange) progresses from SEM imaging of FePt thin films on SiO₂ spheres through XRD and SQUID measurements, producing averaged hysteresis loops and diffraction data. The simulation pipeline (purple) performs micromagnetic simulations of hemispherical FePt caps with radial or uniaxial anisotropy, generating hysteresis loops and switching field distributions. Both pipelines merge for direct comparison between experimental and simulated magnetic behavior, yielding publication-ready figures and magnetic property metrics."
+       width="100%">
+</div>
 
 The .png, .svg. and .pdf versions of this rubric can be found <a href="https://github.com/nrokh/ScientificFigures/tree/7adb50915035029c4f42836f69965cf805202563/FigureRubric">here</a>.  
 </details>
