@@ -82,7 +82,17 @@ In the Figure Rubric, we highlight six key attributes to help assess figures for
 - Ink:Content Ratio
 - Accessibility
 
-The rubric shows examples of each attribute done well and done poorly, as well as a few pointers to keep in mind. The Figure Rubric is previewed below in Light mode:
+The rubric shows examples of each attribute done well and done poorly, as well as a few pointers to keep in mind. 
+
+<div align="center">
+  <img src="FigureRubric/FigureRubric_pg1.png#gh-light-mode-only"
+       alt="Integrated FunMaP workflow shown as a metro-style diagram with two parallel pipelines that converge for cross-validation. The experimental pipeline (orange) progresses from SEM imaging of FePt thin films on SiO₂ spheres through XRD and SQUID measurements, producing averaged hysteresis loops and diffraction data. The simulation pipeline (purple) performs micromagnetic simulations of hemispherical FePt caps with radial or uniaxial anisotropy, generating hysteresis loops and switching field distributions. Both pipelines merge for direct comparison between experimental and simulated magnetic behavior, yielding publication-ready figures and magnetic property metrics."
+       width="100%">
+
+  <img src="FigureRubric/FigureRubricDarkModeTestPage1.png#gh-dark-mode-only"
+       alt="Integrated FunMaP workflow shown as a metro-style diagram with two parallel pipelines that converge for cross-validation. The experimental pipeline (orange) progresses from SEM imaging of FePt thin films on SiO₂ spheres through XRD and SQUID measurements, producing averaged hysteresis loops and diffraction data. The simulation pipeline (purple) performs micromagnetic simulations of hemispherical FePt caps with radial or uniaxial anisotropy, generating hysteresis loops and switching field distributions. Both pipelines merge for direct comparison between experimental and simulated magnetic behavior, yielding publication-ready figures and magnetic property metrics."
+       width="100%">
+</div>
 
   <p>
   <p align="center"> 
