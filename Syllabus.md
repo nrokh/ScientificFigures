@@ -5,8 +5,8 @@
 **Workshop Syllabus**
 
 📅 **Date:** Thursday, September 24, 2026
-🕜 **Time:** 13:30 – 15:30 (Tutorial)
-📍 **Location:** _TBD_
+🕜 **Time:** 13:30 – 15:30 (Tutorial Session)
+📍 **Location:** Lecture Hall 
 👥 **Presenters:** [Nataliya Rokhmanova](https://github.com/nrokh) & [Andrew K. Schulz](https://github.com/Aschulz94)
 
 ---
