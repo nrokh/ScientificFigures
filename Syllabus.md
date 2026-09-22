@@ -1,13 +1,13 @@
-# SCIFIG 📊
+# SCIFIG 
 
 ## Explaining Scientific Findings Through Figures in Publications, Presentations, and Posters
 
 **Workshop Syllabus**
 
-📅 **Date:** Thursday, September 24, 2026
-🕜 **Time:** 13:30 – 15:30 (Tutorial Session)
-📍 **Location:** Lecture Hall 
-👥 **Presenters:** [Nataliya Rokhmanova](https://github.com/nrokh) & [Andrew K. Schulz](https://github.com/Aschulz94)
+ **Date:** Thursday, September 24, 2026
+ **Time:** 13:30 – 15:30 (Tutorial Session)
+ **Location:** Lecture Hall 
+ **Presenters:** [Nataliya Rokhmanova](https://github.com/nrokh) & [Andrew K. Schulz](https://github.com/Aschulz94)
 
 ---
 
@@ -17,14 +17,14 @@ A 2-hour hands-on workshop on how to communicate scientific findings clearly thr
 
 ---
 
-## 🧰 Before the Workshop
+## Before the Workshop
 
 - **Bring a figure** you are working on (a draft is perfect). You will revise it during the breakouts.
 - **Bring a laptop or phone** to join the live Slido polls during the session.
 
 ---
 
-## 🎯 Learning Outcomes
+## Learning Outcomes
 
 ### Workshop
 
@@ -49,19 +49,19 @@ Participants will:
 |:-----|:--------:|:--------|
 | 13:30 – 13:45 | 15 min | Intro of presenters & purpose of the workshop |
 | 13:45 – 14:03 | 18 min | Figure Activity: Spectrum of Figures |
-| 14:03 – 14:05 | 2 min | ❓ Q&A Break 1 |
+| 14:03 – 14:05 | 2 min |  Q&A Break 1 |
 | 14:05 – 14:18 | 13 min | Figure Assessment Rubric |
-| 14:18 – 14:25 | 7 min | ❓ Q&A Break 2 |
+| 14:18 – 14:25 | 7 min |  Q&A Break 2 |
 | 14:25 – 14:40 | 15 min | Posters, Presentations & Publications (links and FAQs sheet shared) |
-| 14:40 – 14:55 | 15 min | ❓ Q&A Break 3 & transition to breakouts |
-| 14:55 – 15:25 | 30 min | 🧩 Breakouts: Inkscape 101 _or_ Figure Peer Review |
+| 14:40 – 14:55 | 15 min |  Q&A Break 3 & transition to breakouts |
+| 14:55 – 15:25 | 30 min |  Breakouts: Inkscape 101 _or_ Figure Peer Review |
 | 15:25 – 15:30 | 5 min | Recap & Closing |
 
 **Total:** 120 minutes
 
 ---
 
-## 📄 Handouts for Participants
+## Handouts for Participants
 
 | Handout | Description |
 |:--------|:------------|
@@ -73,7 +73,7 @@ Participants will:
 
 ---
 
-## 🧑‍🏫 Running Your Own Workshop
+##  Running Your Own Workshop
 
 Want to teach this workshop yourself? The [Teaching Materials](TeachingMaterials/) folder includes the slides ([.pptx](TeachingMaterials/SCIFIG_SlideTemplate.pptx) / [.pdf](TeachingMaterials/SCIFIG_SlideTemplate.pdf)), a [detailed lesson plan](TeachingMaterials/SCIFIG_LessonPlan.docx), and a [bibliography](TeachingMaterials/SCIFIG_SlidesBib.bib) of the figures used.
 
