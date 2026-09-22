@@ -20,7 +20,6 @@ A 2-hour hands-on workshop on how to communicate scientific findings clearly thr
 ## 🧰 Before the Workshop
 
 - **Bring a figure** you are working on (a draft is perfect). You will revise it during the breakouts.
-- **Install [Inkscape](https://inkscape.org/)** (free and open-source) if you plan to join the Inkscape 101 breakout. See the [installation notes](README.md#inkscape-101-).
 - **Bring a laptop or phone** to join the live Slido polls during the session.
 
 ---
