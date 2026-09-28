@@ -1,19 +1,8 @@
-<p align="center">
+# Using SCIFIG with Agentic Artificial Intelligence Models (e.g., Claude, Codex, Gemini, Aider)
 
-  <h1 align="center">Explaining scientific findings through figures in publications, presentations, and posters
-  </h1>
-  <p align="center">
-    <a href="https://is.mpg.de/person/rokhmanova"><strong>Nataliya Rokhmanova*</strong></a>
-    ·
-    <a href="https://hi.is.mpg.de/person/aschulz"><strong>Andrew K. Schulz*</strong></a>
-    ·
-</p>
+General description: Agentic AI models such as Anthropic's Claude or OpenAI's Codex can read your plotting code, run it, look at the rendered figure, and revise it in a loop. That makes them useful figure-making partners, **as long as you keep the scientific judgment for yourself.** This guide gives copy-and-paste prompts that ground the model in the SCIFIG materials (the Spectrum of Figure Creation, the six-attribute Figure Rubric, and the P³ lessons on posters, presentations, and publications) so its feedback matches what we teach in the workshop. The prompts were made in collaboration with SCIFIG tutorial attendees and are still ongoing improvements. 
 
-# Using SCIFIG with Agentic AI (e.g., Claude)
-
-General description: Agentic AI models such as Claude can read your plotting code, run it, look at the rendered figure, and revise it in a loop. That makes them useful figure-making partners, **as long as you keep the scientific judgment for yourself.** This guide gives copy-and-paste prompts that ground the model in the SCIFIG materials (the Spectrum of Figure Creation, the six-attribute Figure Rubric, and the P³ lessons on posters, presentations, and publications) so its feedback matches what we teach in the workshop.
-
-Prompts are written for Claude, but work with most agentic models. Replace anything in `[BRACKETS]` with your own details.
+Prompts were written and tested with Claude Opus 5.5, however should work with most agentic models. Throughout the ReadMe you will see several items with `[BRACKETS]` which are meant for you to fill in with your own details for your figures, scientific projects, etc. AI agents are tools to support your figure-making, not a substitute for it. The scientific judgment, the main message, and the responsibility for your figures remain you and your co-authors responsibility. 
 
 ---
 
