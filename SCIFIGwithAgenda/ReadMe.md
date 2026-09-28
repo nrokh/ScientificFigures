@@ -8,8 +8,7 @@ Prompts were written and tested with Claude Opus 5.5, however should work with m
 
 <h2 align="center">Before You Start</h2>
 
-<details>
-<summary>Give the model the SCIFIG context</summary>
+### Give the model the SCIFIG context
 
 A model gives much better figure feedback when it critiques against a shared standard rather than its own taste. Pick the option that matches how you use Claude:
 
@@ -29,10 +28,8 @@ Evaluate every figure against the SCIFIG Figure Rubric's six attributes:
 5. Ink:Content Ratio – remove anything not needed to understand the data (grid lines, boxes, redundant legends).
 6. Accessibility – readable sans-serif fonts; interpretable with red-green color blindness and in grayscale; alt text is distinct from the caption.
 ```
-</details>
 
-<details>
-<summary>Good habits when working with an agent</summary>
+### Good habits when working with an agent
 
 - **Lead with the main point.** Tell the model the one sentence your figure should communicate and who will see it. Every SCIFIG lesson flows from this.
 - **Share the data and code, not just a screenshot.** The model can then make real edits instead of describing them.
@@ -40,8 +37,6 @@ Evaluate every figure against the SCIFIG Figure Rubric's six attributes:
 - **Protect data integrity.** Tell the model it may change presentation, never values. Review every diff that touches data loading, filtering, axis limits, or statistics.
 - **Keep the model in reviewer mode when you are learning.** Asking for questions and critique (rather than a finished figure) builds the skills the workshop is about.
 - **Check your policies.** Confirm your institution allows unpublished data to be shared with AI tools, and check your target journal's rules on AI-generated imagery. Using an agent to write plotting code for your real data is very different from generating an illustration.
-</details>
-
 ---
 
 <h2 align="center">Prompt Library</h2>
