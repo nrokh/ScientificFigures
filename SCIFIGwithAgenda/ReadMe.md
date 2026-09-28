@@ -209,9 +209,7 @@ Don't give me answers or code. Instead, walk through the six rubric attributes o
 
 ## AGENT.md Template
 
-<summary>Drop-in project instructions for coding agents</summary>
-
-Save this as `AGENTS.md` (or `CLAUDE.md`, `CODEX.md`, etc. for other agents) in the root of a project where you make figures. Agents should read it automatically as you begin a session. 
+This is drop-in project instructions for working with coding agents and using SCIFIG for helping with data visualizations. Save this as `AGENTS.md` (or `CLAUDE.md`, `CODEX.md`, etc. for other agents) in the root of a project where you make figures. Agents should read it automatically as you begin a session. 
 
 ```markdown
 # Figure guidelines (SCIFIG)
