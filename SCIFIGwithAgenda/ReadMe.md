@@ -12,9 +12,9 @@ Prompts were written and tested with Claude Opus 5.5, however should work with m
 
 A model gives much better figure feedback when it critiques against a shared standard rather than its own taste. Pick the option that matches how you use Claude:
 
-| Where you use Claude | How to load SCIFIG |
+| Where you use coding agents | How to load SCIFIG |
 |----------------------|--------------------|
-| **Claude Code / other coding agents** | Clone this repository next to your project (or copy `FigureRubric/` into it) and add the [`AGENT.md` template](#claudemd-template) below to your project root so the rubric is loaded in every session. |
+| **Coding agents** | Clone this repository next to your project (or copy `FigureRubric/` into it) and add the `AGENT.md` template below to your project root so the rubric is loaded in every session. |
 | **Claude.ai Projects** | Create a Project, upload `FigureRubric/FigureRubric.pdf`, `FigureSpectrum/FigureSpectrum.pdf`, and `LinksAndFAQs/LinksAndFAQs.pdf` as Project knowledge, and paste the rubric summary below into the Project instructions. |
 | **A single chat** | Attach `FigureRubric.pdf` to your first message along with your figure. |
 
