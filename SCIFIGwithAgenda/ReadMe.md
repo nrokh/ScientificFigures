@@ -14,7 +14,7 @@ A model gives much better figure feedback when it critiques against a shared sta
 
 | Where you use Claude | How to load SCIFIG |
 |----------------------|--------------------|
-| **Claude Code / other coding agents** | Clone this repository next to your project (or copy `FigureRubric/` into it) and add the [`CLAUDE.md` template](#claudemd-template) below to your project root so the rubric is loaded in every session. |
+| **Claude Code / other coding agents** | Clone this repository next to your project (or copy `FigureRubric/` into it) and add the [`AGENT.md` template](#claudemd-template) below to your project root so the rubric is loaded in every session. |
 | **Claude.ai Projects** | Create a Project, upload `FigureRubric/FigureRubric.pdf`, `FigureSpectrum/FigureSpectrum.pdf`, and `LinksAndFAQs/LinksAndFAQs.pdf` as Project knowledge, and paste the rubric summary below into the Project instructions. |
 | **A single chat** | Attach `FigureRubric.pdf` to your first message along with your figure. |
 
@@ -207,9 +207,10 @@ Don't give me answers or code. Instead, walk through the six rubric attributes o
 
 ---
 
+## AGENT.md Template
+
 <h2 align="center">CLAUDE.md Template</h2>
 
-<details>
 <summary>Drop-in project instructions for coding agents</summary>
 
 Save this as `AGENTS.md` (or `CLAUDE.md`, `CODEX.md`, etc. for other agents) in the root of a project where you make figures. Agents should read it automatically as you begin a session. 
@@ -236,8 +237,7 @@ When creating or editing figures in this project, follow the SCIFIG Figure Rubri
 - Palette: [HEX CODES]
 - Font: [FONT], sizes: [e.g., 8 pt paper / 24 pt poster / 18 pt slides]
 - Target journal/venue: [NAME, column widths]
-```
-</details>
+
 
 ---
 
