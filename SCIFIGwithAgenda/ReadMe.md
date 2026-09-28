@@ -212,7 +212,7 @@ Don't give me answers or code. Instead, walk through the six rubric attributes o
 <details>
 <summary>Drop-in project instructions for coding agents</summary>
 
-Save this as `CLAUDE.md` (or `AGENTS.md` for other agents) in the root of a project where you make figures. Claude Code reads it automatically at the start of each session.
+Save this as `AGENTS.md` (or `CLAUDE.md`, `CODEX.md`, etc. for other agents) in the root of a project where you make figures. Agents should read it automatically as you begin a session. 
 
 ```markdown
 # Figure guidelines (SCIFIG)
