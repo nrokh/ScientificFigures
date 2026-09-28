@@ -209,8 +209,6 @@ Don't give me answers or code. Instead, walk through the six rubric attributes o
 
 ## AGENT.md Template
 
-<h2 align="center">CLAUDE.md Template</h2>
-
 <summary>Drop-in project instructions for coding agents</summary>
 
 Save this as `AGENTS.md` (or `CLAUDE.md`, `CODEX.md`, etc. for other agents) in the root of a project where you make figures. Agents should read it automatically as you begin a session. 
